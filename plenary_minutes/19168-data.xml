@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="utf-8"  ?>
+<?xml-stylesheet href="dbtplenarprotokoll.css" type="text/css" charset="UTF-8"?>
+<!DOCTYPE dbtplenarprotokoll SYSTEM "dbtplenarprotokoll.dtd">
+<dbtplenarprotokoll vertrieb="Bundesanzeiger Verlagsgesellschaft mbH, Postfach 1 0 05 34, 50445 K&#xF6;ln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de" herstellung="H. Heenemann GmbH  Co. KG, Buch- und Offsetdruckerei, Bessemerstra&#xDF;e 83&#x2013;91, 12103 Berlin, www.heenemann-druck.de" sitzung-ort="Berlin" herausgeber="Deutscher Bundestag" issn="0722-7980" wahlperiode="19" sitzung-nr="168" sitzung-datum="29.06.2020" sitzung-start-uhrzeit="11:00" sitzung-ende-uhrzeit="12:31" sitzung-naechste-datum="01.07.2020" start-seitennr="20997">
+	<vorspann>
+		<kopfdaten>
+			<plenarprotokoll-nummer>Plenarprotokoll <wahlperiode>19</wahlperiode>/<sitzungsnr>168</sitzungsnr>
+			</plenarprotokoll-nummer>
+			<herausgeber>Deutscher Bundestag</herausgeber>
+			<berichtart>Stenografischer Bericht</berichtart>
+			<sitzungstitel>
+				<sitzungsnr>168</sitzungsnr>. Sitzung</sitzungstitel>
+			<veranstaltungsdaten>
+				<ort>Berlin</ort>, <datum date="29.06.2020">Montag, den 29.&#xA0;Juni 2020</datum>
+			</veranstaltungsdaten>
+		</kopfdaten>
+		<inhaltsverzeichnis>
+			<ivz-titel>Inhalt:</ivz-titel>
+			<ivz-block>
+				<ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>a) &#x2013; Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Zweiten Gesetzes zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Corona-Krise (Zweites Corona-Steuerhilfegesetz)</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>Drucksachen&#xA0;19/20058, 19/20332</ivz-eintrag-inhalt>
+					<a href="S20997" typ="druckseitennummer">
+						<seite>20997</seite>
+						<seitenbereich>B</seitenbereich>
+					</a>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>&#x2013; Bericht des Haushaltsausschusses gem&#xE4;&#xDF; &#xA7;&#xA0;96 der Gesch&#xE4;ftsordnung</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>Drucksache&#xA0;19/20441</ivz-eintrag-inhalt>
+					<a href="S20997" typ="druckseitennummer">
+						<seite>20997</seite>
+						<seitenbereich>B</seitenbereich>
+					</a>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>b) Beschlussempfehlung und Bericht des Finanzausschusses</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>&#x2013; zu dem Antrag der Abgeordneten Christian D&#xFC;rr, Grigorios Aggelidis, Renata Alt, weiterer Abgeordneter und der Fraktion der FDP: Neustart f&#xFC;r Deutschland&#xA0;&#x2013; Entlasten, investieren und entfesseln</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>&#x2013; zu dem Antrag der Abgeordneten Markus Herbrand, Katja Hessel, Christian D&#xFC;rr, weiterer Abgeordneter und der Fraktion der FDP: Steuererkl&#xE4;rungsverpflichtung f&#xFC;r Kurzarbeit verhindern&#xA0;&#x2013; Progressionsvorbehalt f&#xFC;r 2020 aussetzen</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>&#x2013; zu dem Antrag der Abgeordneten Kay Gottschalk, Marc Bernhard, J&#xFC;rgen Braun, weiterer Abgeordneter und der Fraktion der AfD: Arbeitnehmer, Kleinunternehmer, Freiberufler, Landwirte und Solo-Selbst&#xE4;ndige aus der Corona-Steuerfalle befreien und gleichzeitig B&#xFC;rokratie abbauen</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>Drucksachen&#xA0;19/20050, 19/20051, 19/20071, 19/20332</ivz-eintrag-inhalt>
+					<a href="S20997" typ="druckseitennummer">
+						<seite>20997</seite>
+						<seitenbereich>D</seitenbereich>
+					</a>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003050">
+							<name>
+								<vorname>Lothar</vorname>
+								<nachname>Binding</nachname>
+								<ortszusatz>(Heidelberg)</ortszusatz>
+								<fraktion>SPD</fraktion>
+							</name>
+						</redner>Lothar Binding (Heidelberg) (SPD)</ivz-eintrag-inhalt>
+					<xref div="D" pnr="20997" ref-type="rede" rid="ID1916800100">
+						<a href="S20997" typ="druckseitennummer">
+							<seite>20997</seite>
+							<seitenbereich>D</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004727">
+							<name>
+								<vorname>Albrecht</vorname>
+								<nachname>Glaser</nachname>
+								<fraktion>AfD</fraktion>
+							</name>
+						</redner>Albrecht Glaser (AfD)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="20999" ref-type="rede" rid="ID1916800200">
+						<a href="S20999" typ="druckseitennummer">
+							<seite>20999</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003516">
+							<name>
+								<vorname>Alexander</vorname>
+								<nachname>Dobrindt</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Alexander Dobrindt (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21000" ref-type="rede" rid="ID1916800300">
+						<a href="S21000" typ="druckseitennummer">
+							<seite>21000</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004892">
+							<name>
+								<vorname>Martin</vorname>
+								<nachname>Sichert</nachname>
+								<fraktion>AfD</fraktion>
+							</name>
+						</redner>Martin Sichert (AfD)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21002" ref-type="rede" rid="ID1916800400">
+						<a href="S21002" typ="druckseitennummer">
+							<seite>21002</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003516">
+							<name>
+								<vorname>Alexander</vorname>
+								<nachname>Dobrindt</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Alexander Dobrindt (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21002" ref-type="rede" rid="ID1916800500">
+						<a href="S21002" typ="druckseitennummer">
+							<seite>21002</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004705">
+							<name>
+								<vorname>Christian</vorname>
+								<nachname>D&#xFC;rr</nachname>
+								<fraktion>FDP</fraktion>
+							</name>
+						</redner>Christian D&#xFC;rr (FDP)</ivz-eintrag-inhalt>
+					<xref div="D" pnr="21002" ref-type="rede" rid="ID1916800600">
+						<a href="S21002" typ="druckseitennummer">
+							<seite>21002</seite>
+							<seitenbereich>D</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004183">
+							<name>
+								<titel>Dr.</titel>
+								<vorname>Sahra</vorname>
+								<nachname>Wagenknecht</nachname>
+								<fraktion>DIE LINKE</fraktion>
+							</name>
+						</redner>Dr.&#xA0;Sahra Wagenknecht (DIE LINKE)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21004" ref-type="rede" rid="ID1916800700">
+						<a href="S21004" typ="druckseitennummer">
+							<seite>21004</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004664">
+							<name>
+								<titel>Dr.</titel>
+								<vorname>Danyal</vorname>
+								<nachname>Bayaz</nachname>
+								<fraktion>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</fraktion>
+							</name>
+						</redner>Dr.&#xA0;Danyal Bayaz (B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</ivz-eintrag-inhalt>
+					<xref div="B" pnr="21005" ref-type="rede" rid="ID1916800800">
+						<a href="S21005" typ="druckseitennummer">
+							<seite>21005</seite>
+							<seitenbereich>B</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003422">
+							<name>
+								<vorname>Ingrid</vorname>
+								<nachname>Arndt-Brauer</nachname>
+								<fraktion>SPD</fraktion>
+							</name>
+						</redner>Ingrid Arndt-Brauer (SPD)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21006" ref-type="rede" rid="ID1916800900">
+						<a href="S21006" typ="druckseitennummer">
+							<seite>21006</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004745">
+							<name>
+								<vorname>Markus</vorname>
+								<nachname>Herbrand</nachname>
+								<fraktion>FDP</fraktion>
+							</name>
+						</redner>Markus Herbrand (FDP)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21007" ref-type="rede" rid="ID1916801000">
+						<a href="S21007" typ="druckseitennummer">
+							<seite>21007</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003422">
+							<name>
+								<vorname>Ingrid</vorname>
+								<nachname>Arndt-Brauer</nachname>
+								<fraktion>SPD</fraktion>
+							</name>
+						</redner>Ingrid Arndt-Brauer (SPD)</ivz-eintrag-inhalt>
+					<xref div="D" pnr="21007" ref-type="rede" rid="ID1916801100">
+						<a href="S21007" typ="druckseitennummer">
+							<seite>21007</seite>
+							<seitenbereich>D</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004116">
+							<name>
+								<vorname>Nadine</vorname>
+								<nachname>Sch&#xF6;n</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Nadine Sch&#xF6;n (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21008" ref-type="rede" rid="ID1916801200">
+						<a href="S21008" typ="druckseitennummer">
+							<seite>21008</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003856">
+							<name>
+								<titel>Dr.</titel>
+								<vorname>Florian</vorname>
+								<nachname>Toncar</nachname>
+								<fraktion>FDP</fraktion>
+							</name>
+						</redner>Dr.&#xA0;Florian Toncar (FDP)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21009" ref-type="rede" rid="ID1916801300">
+						<a href="S21009" typ="druckseitennummer">
+							<seite>21009</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003646">
+							<name>
+								<vorname>Antje</vorname>
+								<nachname>Tillmann</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Antje Tillmann (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21010" ref-type="rede" rid="ID1916801400">
+						<a href="S21010" typ="druckseitennummer">
+							<seite>21010</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11000365">
+							<name>
+								<titel>Dr.</titel>
+								<vorname>Diether</vorname>
+								<nachname>Dehm</nachname>
+								<fraktion>DIE LINKE</fraktion>
+							</name>
+						</redner>Dr.&#xA0;Diether Dehm (DIE LINKE)</ivz-eintrag-inhalt>
+					<xref div="B" pnr="21011" ref-type="rede" rid="ID1916801500">
+						<a href="S21011" typ="druckseitennummer">
+							<seite>21011</seite>
+							<seitenbereich>B</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11003646">
+							<name>
+								<vorname>Antje</vorname>
+								<nachname>Tillmann</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Antje Tillmann (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21011" ref-type="rede" rid="ID1916801600">
+						<a href="S21011" typ="druckseitennummer">
+							<seite>21011</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004258">
+							<name>
+								<vorname>Bernhard</vorname>
+								<nachname>Daldrup</nachname>
+								<fraktion>SPD</fraktion>
+							</name>
+						</redner>Bernhard Daldrup (SPD)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21012" ref-type="rede" rid="ID1916801700">
+						<a href="S21012" typ="druckseitennummer">
+							<seite>21012</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004817">
+							<name>
+								<vorname>Fabio</vorname>
+								<nachname>De Masi</nachname>
+								<fraktion>DIE LINKE</fraktion>
+							</name>
+						</redner>Fabio De Masi (DIE LINKE)</ivz-eintrag-inhalt>
+					<xref div="B" pnr="21013" ref-type="rede" rid="ID1916801800">
+						<a href="S21013" typ="druckseitennummer">
+							<seite>21013</seite>
+							<seitenbereich>B</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004258">
+							<name>
+								<vorname>Bernhard</vorname>
+								<nachname>Daldrup</nachname>
+								<fraktion>SPD</fraktion>
+							</name>
+						</redner>Bernhard Daldrup (SPD)</ivz-eintrag-inhalt>
+					<xref div="C" pnr="21013" ref-type="rede" rid="ID1916801900">
+						<a href="S21013" typ="druckseitennummer">
+							<seite>21013</seite>
+							<seitenbereich>C</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>
+						<redner id="11004285">
+							<name>
+								<vorname>Fritz</vorname>
+								<nachname>G&#xFC;ntzler</nachname>
+								<fraktion>CDU/CSU</fraktion>
+							</name>
+						</redner>Fritz G&#xFC;ntzler (CDU/CSU)</ivz-eintrag-inhalt>
+					<xref div="A" pnr="21014" ref-type="rede" rid="ID1916802000">
+						<a href="S21014" typ="druckseitennummer">
+							<seite>21014</seite>
+							<seitenbereich>A</seitenbereich>
+						</a>
+					</xref>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>N&#xE4;chste Sitzung</ivz-eintrag-inhalt>
+					<a href="S21016" typ="druckseitennummer">
+						<seite>21016</seite>
+						<seitenbereich>C</seitenbereich>
+					</a>
+				</ivz-eintrag>
+			</ivz-block>
+			<ivz-block>
+				<ivz-block-titel>Anlage 1</ivz-block-titel>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>Entschuldigte Abgeordnete</ivz-eintrag-inhalt>
+					<a href="S21017" typ="druckseitennummer">
+						<seite>21017</seite>
+						<seitenbereich>A</seitenbereich>
+					</a>
+				</ivz-eintrag>
+			</ivz-block>
+			<ivz-block>
+				<ivz-block-titel>Anlage 2</ivz-block-titel>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>Erkl&#xE4;rung nach &#xA7;&#xA0;31 GO des Abgeordneten Dr.&#xA0;Eberhard Brecht (SPD) zu dem von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurf eines Zweiten Gesetzes zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Corona-Krise (Zweites Corona-Steuerhilfegesetz)</ivz-eintrag-inhalt>
+				</ivz-eintrag>
+				<ivz-eintrag>
+					<ivz-eintrag-inhalt>(Tagesordnungspunkt&#xA0;1&#xA0;a)</ivz-eintrag-inhalt>
+					<a href="S21017" typ="druckseitennummer">
+						<seite>21017</seite>
+						<seitenbereich>C</seitenbereich>
+					</a>
+				</ivz-eintrag>
+			</ivz-block>
+		</inhaltsverzeichnis>
+	</vorspann>
+	<sitzungsverlauf>
+		<sitzungsbeginn sitzung-start-uhrzeit="11:00">
+			<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+			<p klasse="J_1">Guten Morgen, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz. Die Sitzung ist er&#xF6;ffnet.</p>
+			<p klasse="J">Au&#xDF;ergew&#xF6;hnliche Zeiten erfordern au&#xDF;ergew&#xF6;hnliche Ma&#xDF;nahmen. Deswegen treffen wir uns heute schon am Montag. Die Tagesordnung f&#xFC;r diesen Tag ist auch vereinbart zwischen den Fraktionen.</p>
+		</sitzungsbeginn>
+		<tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+			<p klasse="J">Deswegen rufe ich die Tagesordnungspunkte 1&#xA0;a und 1&#xA0;b auf:</p>
+			<p klasse="T_NaS">a) &#x2013; Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Zweiten Gesetzes zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Corona-Krise (Zweites Corona-Steuerhilfegesetz)</p>
+			<p klasse="T_Drs">Drucksache&#xA0;19/20058</p>
+			<p klasse="T_NaS">Beschlussempfehlung und Bericht des Finanzausschusses (7.&#xA0;Ausschuss)</p>
+			<p klasse="T_fett">Drucksache&#xA0;19/20332</p>
+			<p klasse="T_NaS">&#x2013; Bericht des Haushaltsausschusses (8.&#xA0;Ausschuss) gem&#xE4;&#xDF; &#xA7;&#xA0;96 der Gesch&#xE4;ftsordnung</p>
+			<p klasse="T_Drs">Drucksache&#xA0;19/20441</p>
+			<p klasse="T_NaS">b) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7.&#xA0;Ausschuss)</p>
+			<p klasse="T_NaS">&#x2013; zu dem Antrag der Abgeordneten Christian D&#xFC;rr, Grigorios Aggelidis, Renata Alt, weiterer Abgeordneter und der Fraktion der FDP</p>
+			<p klasse="T_fett">Neustart f&#xFC;r Deutschland&#xA0;&#x2013; Entlasten, investieren und entfesseln</p>
+			<p klasse="T_NaS">&#x2013; zu dem Antrag der Abgeordneten Markus Herbrand, Katja Hessel, Christian D&#xFC;rr, weiterer Abgeordneter und der Fraktion der FDP</p>
+			<p klasse="T_fett">Steuererkl&#xE4;rungsverpflichtung f&#xFC;r Kurzarbeit verhindern&#xA0;&#x2013; Progressionsvorbehalt f&#xFC;r 2020 aussetzen</p>
+			<p klasse="T_NaS">&#x2013; zu dem Antrag der Abgeordneten Kay Gottschalk, Marc Bernhard, J&#xFC;rgen Braun, weiterer Abgeordneter und der Fraktion der AfD</p>
+			<p klasse="T_fett">Arbeitnehmer, Kleinunternehmer, Freiberufler, Landwirte und Solo-Selbst&#xE4;ndige aus der Corona-Steuerfalle befreien und gleichzeitig B&#xFC;rokratie abbauen</p>
+			<p klasse="T_Drs">Drucksachen&#xA0;19/20050, 19/20051, 19/20071, 19/20332</p>
+			<p klasse="J">Zu dem Gesetzentwurf der Fraktionen der CDU/CSU und SPD liegen mehrere &#xC4;nderungsantr&#xE4;ge und Entschlie&#xDF;ungsantr&#xE4;ge vor.</p>
+			<p klasse="J">F&#xFC;r die Aussprache wurde eine Dauer von 60&#xA0;Minuten beschlossen.</p>
+			<p klasse="J">Ich er&#xF6;ffne die Aussprache und erteile das Wort dem Kollegen Lothar Binding von der SPD-Fraktion.</p>
+			<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+			<rede id="ID1916800100">
+				<p klasse="redner">
+					<redner id="11003050">
+						<name>
+							<vorname>Lothar</vorname>
+							<nachname>Binding</nachname>
+							<ortszusatz>(Heidelberg)</ortszusatz>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Lothar Binding (Heidelberg) (SPD):</p>
+				<p klasse="J_1">Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! Sehr verehrte Damen und Herren! Eine Pandemie dieser Art, eine Coronapandemie, ist f&#xFC;r uns alle ein ganz neues Erlebnis. Wir k&#xF6;nnen auf keine Erfahrungen zur&#xFC;ckgreifen, wie man darauf reagieren sollte. Manche sch&#xFC;tteln den Kopf, aber ich w&#xFC;sste nicht, wer schon einmal eine solche Pandemie erlebt hat und sich deshalb darauf vorbereiten konnte. Weltweit gab es niemanden, der sich wirklich gut vorbereitet hat. Ich glaube, dass das auch zeigt, warum wir ein bisschen stolz darauf sind, wie schnell wir reagiert haben, wie wirkm&#xE4;chtig wir reagiert haben. Daher wollte ich den Kollegen von der CDU/CSU und uns allen daf&#xFC;r danken, wie eng wir zusammengearbeitet haben. Ich wollte den Ministern und der Regierung danken, weil ich glaube, hier hat sich gezeigt, dass wir in der Not in einer besonderen Weise zusammenstehen.</p>
+				<p klasse="J">Das hat schon das Erste Corona-Steuerhilfegesetz gezeigt, und das zeigt jetzt das Zweite. Das zeigen auch die Dimension und die Gr&#xF6;&#xDF;enordnung der Ma&#xDF;nahmen. Denn wir k&#xFC;mmern uns multidimensional um ein Wirtschaftssystem, das zun&#xE4;chst mal auf die Verbraucher blickt und sagt: Den Verbrauchern muss es auch in der Krise gut gehen k&#xF6;nnen, jedenfalls nicht so schlecht wie den Verbrauchern in L&#xE4;ndern, die sich nicht gut genug k&#xFC;mmern k&#xF6;nnen. Also wird zun&#xE4;chst die Umsatzsteuer gesenkt mit dem Ziel, dass die Verbraucher gut durch die Krise kommen. Den Familien wird mit dem Kinderbonus geholfen, der Entlastungsbetrag f&#xFC;r Alleinerziehende wird angehoben. Es gibt Hilfen f&#xFC;r viele, begonnen bei den Kulturschaffenden bis hin zu den gemeinn&#xFC;tzigen Einrichtungen. Es passiert unendlich viel auf der Nachfrageseite f&#xFC;r die Verbraucherinnen und Verbraucher.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="J">&#xDC;brigens, wer an der Wirksamkeit dieser Ma&#xDF;nahmen zweifelt, der sollte sich vielleicht einmal die Wachstumsprognosen anschauen, die gegenw&#xE4;rtig ver&#xF6;ffentlicht werden. Zweitens sollte er auch mal Lars Feld lesen, Sachverst&#xE4;ndigenrat, der gesagt hat: Dieser Impuls ist wirkm&#xE4;chtig, und er wird seine Wirkungen haben, sowohl auf der Verbraucherseite als auch auf der Wirtschaftsseite.</p>
+				<p klasse="J">Deshalb gibt es einen zweiten wichtigen Komplex: die Unterst&#xFC;tzung der Unternehmen. Da haben wir alle das gro&#xDF;e Wort &#x201E;Liquidit&#xE4;t&#x201C; im Kopf und sagen: Wer jetzt Verluste macht, dem muss geholfen werden; denn mit den Verlusten sind die Unternehmen in der Krise nicht &#xFC;berlebensf&#xE4;hig. Wenn wir eines erreichen wollen, dann ist es, dass die Unternehmen &#xFC;berleben.</p>
+				<kommentar>(Dr.&#xA0;G&#xF6;tz Fr&#xF6;mming [AfD]: Die sind schon kaputt!)</kommentar>
+				<p klasse="J">Manche sagen, wir m&#xFC;ssten mehr auf Strukturwandel, auf sozial&#xF6;kologische Transformation achten. Das stimmt. Aber man kann nichts transformieren, was es nicht mehr gibt. Also, die Existenz der Strukturen ist wichtig, um sie dann auch zu transformieren.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="O">Da wird sicherlich ein weiterer Schritt kommen m&#xFC;ssen. Wir haben beides im Blick: die soziale Dimension und die &#xF6;kologische Dimension.</p>
+				<p klasse="J">Nun gibt es auch scharfe Kritik an den Dingen, die ich genannt habe. Bernhard Daldrup wird noch auf die Investitionsm&#xF6;glichkeiten der Kommunen eingehen. Ingrid Arndt-Brauer wird auf die Bedeutung f&#xFC;r die Familien eingehen. Manche sagen: Ihr gebt jetzt viel Geld aus und nehmt Schulden auf, habt aber noch R&#xFC;cklagen.&#xA0;&#x2013; Dieses Argument verstehe ich &#xFC;berhaupt nicht. Die R&#xFC;cklagen sind da. Die Aufnahme der Schulden erfolgt entweder zu einem Zinssatz von null oder zu negativen Zinsen. Wann w&#xE4;re denn die Zeit f&#xFC;r den Staat, Schulden zu machen, wenn nicht in dieser Zinslage? Alles andere w&#xE4;re doch geradezu dumm.</p>
+				<kommentar>(Beifall bei der SPD&#xA0;&#x2013; Zurufe von der AfD)</kommentar>
+				<p klasse="J">Es ist klug, jetzt Schulden aufzunehmen und die Reserve zu belassen. Ja, das ist kluges Cash-Management durch kluges R&#xFC;cklagenmanagement. Das ist eindeutig. Wahrscheinlich ist jetzt&#xA0;&#x2013; mit Blick auf zwei ganz wichtige Sachen&#xA0;&#x2013; die einzig gute und richtige Zeit, das zu tun, was wir tun. Wir k&#xF6;nnten das nicht tun, w&#xE4;ren wir in einer anderen Situation. Viele andere L&#xE4;nder k&#xF6;nnen das nicht tun. Ich denke an die Schuldentragf&#xE4;higkeit, die wir heute haben, und an das Zins&#xE4;nderungsrisiko, auf das wir wenig Einfluss haben. Auf die Schuldentragf&#xE4;higkeit haben wir aber Einfluss. Das h&#xE4;ngt damit zusammen, dass wir bestimmte Anforderungen, die auch heute wieder in Antr&#xE4;gen gestellt werden, n&#xE4;mlich Steuersenkung, Steuersenkung, Steuersenkung f&#xFC;r die Unternehmen, in den letzten Jahren nicht erf&#xFC;llt haben. Diese Verweigerung der Senkung der Steuern hilft uns jetzt, denen, die die Senkung gefordert haben, zu helfen.</p>
+				<kommentar>(Beifall bei der SPD&#xA0;&#x2013; Lachen bei Abgeordneten der AfD und der FDP)</kommentar>
+				<p klasse="O">Deshalb sollen die jetzt in der Krise nicht wieder anfangen, Steuersenkungen zu fordern. Das Gegenteil w&#xE4;re richtig nach der Krise.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Die schwarze Null hat uns geholfen!&#xA0;&#x2013; Zurufe von der AfD und der FDP)</kommentar>
+				<p klasse="O">&#x2013; Ja, wer bezahlt das eigentlich alles? Einmal bezahlt das die Zeit. Das haben wir schon sehr oft gemacht; das wei&#xDF; auch jeder. Wir haben das 1952 so gemacht. Wir haben das 1994 so gemacht.</p>
+				<kommentar>(Ralph Brinkhaus [CDU/CSU]: Mit 1952 habe ich nichts zu tun!)</kommentar>
+				<p klasse="O">Ich erw&#xE4;hne das Lastenausgleichsgesetz und ich erw&#xE4;hne den Fonds &#x201E;Deutsche Einheit&#x201C;. Da sieht man: Mit solchen Instrumenten lassen sich die Schulden sehr leicht bezahlen, wenn wir wieder in Wachstum kommen.</p>
+				<kommentar>(Lachen bei Abgeordneten der AfD)</kommentar>
+				<p klasse="J">Deshalb ist die Idee, dass die n&#xE4;chste Generation das bezahlt, v&#xF6;llig falsch. Die n&#xE4;chste Generation h&#xE4;tte ein richtig dickes Problem, wenn wir jetzt nichts machten.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="O">Jetzt das Richtige zu tun, hilft der n&#xE4;chsten Generation. Jetzt nichts zu tun, hei&#xDF;t: Wir hinterlassen einfach einen Scherbenhaufen. Das wollen wir nicht. Wir wollen ein gutes Land hinterlassen.</p>
+				<kommentar>(Lachen bei Abgeordneten der AfD&#xA0;&#x2013; Norbert Kleinw&#xE4;chter [AfD]: Ein verschuldetes Land hinterlassen!)</kommentar>
+				<p klasse="O">&#x2013; Ja, das sind so Begriffe, mit denen manche Parteien nicht umgehen k&#xF6;nnen. Wir haben eine gute Zukunft im Blick; das verstehen manche nicht. Aber ich glaube, diejenigen, die das Gesetz heute beschlie&#xDF;en, haben das gut verstanden.</p>
+				<p klasse="J">Sch&#xF6;nen Dank.</p>
+				<kommentar>(Beifall bei der SPD und der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt hat das Wort der Kollege Albrecht Glaser, AfD.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+			</rede>
+			<rede id="ID1916800200">
+				<p klasse="redner">
+					<redner id="11004727">
+						<name>
+							<vorname>Albrecht</vorname>
+							<nachname>Glaser</nachname>
+							<fraktion>AfD</fraktion>
+						</name>
+					</redner>Albrecht Glaser (AfD):</p>
+				<p klasse="J_1">Herr Pr&#xE4;sident! Meine sehr verehrten Damen und Herren! Das Konjunktur- und Krisenbew&#xE4;ltigungspaket und das Zukunftspaket der Bundesregierung haben zusammen ein Volumen von 172&#xA0;Milliarden Euro. Der Anteil steuerlicher Erleichterungen darin betr&#xE4;gt 50&#xA0;Milliarden Euro, aber nur dann, wenn man die 11&#xA0;Milliarden Euro Energiesubventionen f&#xFC;r Wind und Sonne einbezieht, die in Zukunft direkt aus Steuermitteln und nicht mehr von den Stromabnehmern bezahlt werden sollen. Dies belastet dauerhaft den Bundeshaushalt und f&#xFC;hrt keineswegs zur Senkung der Strompreise. F&#xFC;r Unternehmen und B&#xFC;rger ist dies daher v&#xF6;llig bedeutungslos.</p>
+				<p klasse="J">Wenn man diesen Betrag und alle anderen steuerlichen Ma&#xDF;nahmen, die nur Stundungscharakter haben&#xA0;&#x2013; und das ist die Mehrzahl&#xA0;&#x2013;, von den 50&#xA0;Milliarden Euro abzieht, dann bleiben nur noch 20&#xA0;Milliarden Euro &#xFC;brig, die sich bei der Mehrwertsteuersenkung als Einnahmeminderung des Staates darstellen und die Endverbraucher um diesen Betrag entlasten, sofern diese Steuersenkung bei ihnen &#xFC;berhaupt ankommt. Ist dies der Fall, fressen die zweimaligen Umstellungskosten f&#xFC;r die Umsatzsteuer&#xA0;&#x2013; in einem halben Jahr zweimal&#xA0;&#x2013;, die in Milliardenh&#xF6;he gesch&#xE4;tzt werden, diesen Vorteil nahezu auf.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="J">Keine Soliabschaffung, keine dauerhafte Ertragssteuersenkung, keine Steuervereinfachung, keine B&#xFC;rokratieerleichterung&#xA0;&#x2013; es gibt einfach nichts, was einer zwangskollabierten Volkswirtschaft wieder auf die Beine helfen k&#xF6;nnte.</p>
+				<p klasse="J">&#xC4;hnlich wirkungslos wird der Kinderbonus sein, der gerade einmal 4,3&#xA0;Milliarden Euro Staatsausgaben verursacht. Er spart dabei aber die Kinder der Eltern aus, deren Kinderfreibetrag auf dem bisherigen Niveau eingefroren bleibt. So viel zur Gleichheit der Behandlung von Kindern.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="J">Die Sparquote, meine sehr verehrten Damen und Herren, ist in den letzten Wochen rapide angestiegen. Ein Nachfrageproblem gibt es in diesem Lande nicht, es gibt ein Angebotsproblem. Und es gibt ein Unsicherheitsgef&#xFC;hl der Menschen &#xFC;ber die eigene wirtschaftliche Zukunft, weil die EU-Staaten im Schuldensumpf versinken.</p>
+				<p klasse="J">Soweit das Konjunkturpaket Umverteilungen im &#xF6;ffentlichen Sektor vornimmt wie bei der Kompensation des Gewerbesteuerausfalls der Kommunen, der Umsatzsteuerausf&#xE4;lle der L&#xE4;nder, der Unterkunftskosten der Kommunen und der St&#xE4;rkung des &#xF6;ffentlichen Gesundheitswesens, handelt es sich um ein Paket von 31&#xA0;Milliarden Euro. Dieser Betrag erh&#xF6;ht die Schulden des Bundes, ver&#xE4;ndert jedoch nicht die Schuldenlast des Gesamtstaates und hat &#xFC;berhaupt keine wirtschaftliche Impulsfunktion.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="J">Bleiben noch die Investitionen des Zukunftpakets, seien es staatliche oder private. Nationale Wasserstoffstrategie, 5G-Netzausbau, Quantentechnologie, k&#xFC;nstliche Intelligenz, Ladeinfrastruktur und E-Autopr&#xE4;mie, das meiste dieser 25&#xA0;Milliarden Euro ist Zukunftsmusik. Eine zeitnahe Wirtschaftsbelebung wird davon nicht ausgehen.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="J">Alles zusammengenommen wird es in 2020 eine Nettoneuverschuldung des Bundes von 218&#xA0;Milliarden Euro geben und Haftungsrisiken f&#xFC;r Garantieerkl&#xE4;rungen von vielen Hundert Milliarden Euro.</p>
+				<p klasse="J">Und dann kommt die EU auf die Idee, sie m&#xFC;sse mit einem kreditfinanzierten Wiederaufbaufonds, dem &#x201E;Next Generation EU&#x201C;, auf alle staatlichen Hilfspakete den nationalstaatlichen Schuldenorgien noch die Krone aufsetzen. Allein Italien nimmt national mehr als 30&#xA0;Prozent des BIP an Schulden f&#xFC;r Coronahilfe in die Hand. Sie k&#xF6;nnen sich vorstellen, was das f&#xFC;r die italienische Schuldenquote bedeutet! Die bei der Kommission angedachten 750&#xA0;Milliarden Euro sollen zudem in H&#xF6;he von 500&#xA0;Milliarden Euro als zins- und tilgungsfreie Zuwendungen gew&#xE4;hrt werden, also als Geschenk. Finanziert werden diese &#xFC;ber EU-Emissionen, die durch erh&#xF6;hte Umlagen der Mitgliedstaaten getilgt werden sollen&#xA0;&#x2013; vor allem von Deutschland. Die vergleichsweise armen Deutschen&#xA0;&#x2013; weit hinter Franzosen, Italienern, Spaniern und Griechen&#xA0;&#x2013; mit der vergleichsweise h&#xF6;chsten Abgabelast, die vergleichsweise sp&#xE4;t in eine vergleichsweise niedrige Rente gehen, sollen die vergleichsweise h&#xF6;chste Abfinanzierungsrate tragen, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="J">Dabei wei&#xDF; bis heute niemand, wieso es sich gerade um 750&#xA0;Milliarden Euro handelt und wof&#xFC;r dieses Geld &#xFC;berhaupt verwendet werden soll. Der Verteilungsma&#xDF;stab des Bed&#xFC;rftigkeitsschl&#xFC;ssels soll nichts mit der Zahl der Coronakranken zu tun haben, nichts mit der wirtschaftlichen Belastung des Gesundheitswesens zu tun haben und auch nichts mit dem Lockdown zu tun haben, sondern er st&#xFC;tzt sich auf die Wirtschaftskraft 2019&#xA0;&#x2013; da gab es noch keine Krise&#xA0;&#x2013; und die Arbeitslosenraten zwischen 2015 und 2019.</p>
+				<kommentar>(Michael Grosse-Br&#xF6;mer [CDU/CSU]: Wann reden Sie denn zum Thema?)</kommentar>
+				<p klasse="O">Die Jahrhundertlast soll weder gegen Artikel&#xA0;311 noch gegen Artikel&#xA0;122 des AEUV versto&#xDF;en; in dem einen Artikel geht es um ein Darlehensaufnahmeverbot der EU, in dem anderen Artikel um EU-Hilfe bei einer asymmetrischen Belastung von Staaten. Beides funktioniert also nicht.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="O">Die k&#xFC;hne Behauptung aller Euromanen wird die AfD durch das Bundesverfassungsgericht pr&#xFC;fen lassen m&#xFC;ssen.</p>
+				<p klasse="J">An Italien sollen 173&#xA0;Milliarden Euro, an Spanien 140&#xA0;Milliarden Euro zins- und tilgungsfreie Zuwendungen flie&#xDF;en.</p>
+				<kommentar>(Michael Grosse-Br&#xF6;mer [CDU/CSU]: Sie reden zum falschen Gesetz!)</kommentar>
+				<p klasse="O">Das sind die L&#xE4;nder, die jeweils rund 400&#xA0;Milliarden Euro zinslose Target-&#xDC;berziehungskredite in Anspruch nehmen, die Deutschland zur Verf&#xFC;gung stellt. Damit finanzieren diese L&#xE4;nder ihre Eink&#xE4;ufe in Deutschland. Wir verhalten uns also so wie der Wirt, der seine Stammg&#xE4;ste ewig anschreiben l&#xE4;sst, bis sie alle Alkoholiker sind und die aufgelaufenen Rechnungen auch deshalb nicht mehr bezahlen k&#xF6;nnen.</p>
+				<kommentar>(Beifall bei der AfD&#xA0;&#x2013; Zuruf des Abg. Alexander Dobrindt [CDU/CSU])</kommentar>
+				<p klasse="J">Wer Staatsschulden macht, muss auf Teufel komm raus Wirtschaftswachstum generieren, meine Damen und Herren. Das eine zieht das andere als notwendige Bedingung nach sich. Wer das nicht kann oder nicht will, etwa aus &#xF6;kologischen Gr&#xFC;nden&#xA0;&#x2013; viele wollen aus berechtigten &#xF6;kologischen Gr&#xFC;nden vielleicht sogar gar kein Wirtschaftswachstum&#xA0;&#x2013;,</p>
+				<kommentar>(Carsten Schneider [Erfurt] [SPD]: Na ja!)</kommentar>
+				<p klasse="O">der geht mit seinen Schulden unter. Die EU kann es einfach nicht. Und die n&#xE4;chste Generation kann es schon gar nicht, weil sie kleiner und weil sie technologisch defizit&#xE4;r sein wird. Mit Antifa und Billigabitur ist kein Staat zu machen.</p>
+				<kommentar>(Beifall bei der AfD&#xA0;&#x2013; Widerspruch bei Abgeordneten der SPD und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Was Sie hier also anrichten mit der Abschaffung der Selbstverantwortung der Nationalstaaten f&#xFC;r ihr eigenes &#xF6;konomisches und finanzielles Wohlergehen, mit dem Euro und der Schuldenkollektivierung, muss zum europ&#xE4;ischen Kollaps f&#xFC;hren.</p>
+				<kommentar>(Michael Grosse-Br&#xF6;mer [CDU/CSU]: Wir reden &#xFC;ber das deutsche Steuerhilfegesetz! Das ist nicht zu fassen! Nicht dass Sie am Donnerstag die Rede halten, die Sie heute h&#xE4;tten halten m&#xFC;ssen!)</kommentar>
+				<p klasse="O">Sie f&#xFC;hren ihn herbei.</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<p klasse="O">Und Sie werden daf&#xFC;r die Rechnung zu bezahlen haben.</p>
+				<kommentar>(Beifall bei der AfD&#xA0;&#x2013; Michael Grosse-Br&#xF6;mer [CDU/CSU]: Wohl die Rede verwechselt!)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt erteile ich das Wort dem Kollegen Alexander Dobrindt, CDU/CSU.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+			</rede>
+			<rede id="ID1916800300">
+				<p klasse="redner">
+					<redner id="11003516">
+						<name>
+							<vorname>Alexander</vorname>
+							<nachname>Dobrindt</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Alexander Dobrindt (CDU/CSU):</p>
+				<p klasse="J_1">Sehr geehrter Herr Pr&#xE4;sident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Wir setzen heute ein starkes Signal. Deutschland schaltet vom Krisenmodus in den Zukunftsmodus</p>
+				<kommentar>(Lachen bei Abgeordneten der AfD)</kommentar>
+				<p klasse="O">mit dem klaren Anspruch, dass wir nicht zur&#xFC;ckwollen auf Los, sondern dass wir mit diesem Kickstart ein neues Level erreichen&#xA0;&#x2013; ein neues Level bei Wachstum und Digitalisierung, ein neues Level bei Innovation und Technologie, ein neues Level bei &#xD6;kologie und Nachhaltigkeit, ein neues Level bei Sicherheit und Souver&#xE4;nit&#xE4;t. Deutschland wird mit diesem Paket st&#xE4;rker, krisenfester und moderner aus dieser Krise herauskommen.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD&#xA0;&#x2013; Zurufe von der AfD)</kommentar>
+				<p klasse="J">Ja, es stimmt nat&#xFC;rlich, dass die letzten Monate keine normalen Monate waren, es waren Monate der Verunsicherung, es waren Monate der Unsicherheit, und es waren auch Monate der unsicheren Perspektiven. Ich habe nach wie vor gr&#xF6;&#xDF;ten Respekt vor all denen, die sich dieser Krise entgegengestellt haben. Aber jetzt geht es darum, ein neues Kapitel aufzuschlagen. Aus Verunsicherung muss Mut und Zuversicht werden, aus Verunsicherung muss jetzt der Aufbruch in die Zukunft kommen. Deswegen haben wir Mut zu einem solchen gigantischen Finanzpaket, wie wir es heute vorstellen, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="J">Kernelement in diesem Finanzpaket ist die Mehrwertsteuersenkung. Mit einer Entlastung von &#xFC;ber 20&#xA0;Milliarden Euro f&#xFC;r die B&#xFC;rgerinnen und B&#xFC;rger bringt es die Chance auf einen k&#xFC;nftigen Schub, auf mehr Konsum, auf Wachstum. Ja, wir haben auch den Mut zu Innovationen, den Mut zu Technologie mit unseren Investitionen in Quantencomputing, in k&#xFC;nstliche Intelligenz, in 5G. Und ja, wir haben auch den Mut, endlich wieder Ernst zu machen mit dem Thema &#x201E;Verbindung von &#xD6;kologie und &#xD6;konomie&#x201C;. Es muss n&#xE4;mlich klar sein, dass Corona und die Krise nicht als Ausrede dienen k&#xF6;nnen, &#xF6;kologisch in Deutschland und Europa nachzulassen. Im Gegenteil: Wir nutzen dieses Paket, um zu bekr&#xE4;ftigen, dass es den Grundsatz gibt, dass wirtschaftliches Wachstum und &#xF6;kologische Innovation zusammengeh&#xF6;ren, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="O">Wir machen das mit Forschung und Entwicklung. Wir machen das mit der Wasserstoffstrategie, die wir auf neue F&#xFC;&#xDF;e gestellt haben. Wir machen das mit Innovationen bei Elektromobilit&#xE4;t.</p>
+				<p klasse="J">Und ja, wir haben auch den Mut zu mehr Souver&#xE4;nit&#xE4;t. Es geht darum, bei kritischen Produkten wie etwa bei Medikamenten, bei Schutzbekleidung eine deutsche, eine europ&#xE4;ische Souver&#xE4;nit&#xE4;t zu schaffen.</p>
+				<kommentar>(Norbert Kleinw&#xE4;chter [AfD]: Sie wissen gar nicht mehr, was Souver&#xE4;nit&#xE4;t ist!)</kommentar>
+				<p klasse="O">Daf&#xFC;r hat dieses Paket jetzt die Grundlage gelegt. Das bedeutet aber keine Absage an den Welthandel. Ganz im Gegenteil: Wir stehen zu Partnerschaft, wir stehen zur Vernetzung, wir stehen zum Welthandel. Das darf aber nicht dazu f&#xFC;hren, dass Deutschland und Europa einseitig abh&#xE4;ngig sind von einer Region in der Welt. Souver&#xE4;nit&#xE4;t ist auch ein Thema dieses Paketes.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="J">Zum Mut geh&#xF6;rt aber auch die Zuversicht, dass diese 130&#xA0;Milliarden Euro, so wie wir sie einsetzen, auch wirken werden. Und sie werden wirken. Es ist das gr&#xF6;&#xDF;te Konjunkturpaket, das wir jemals aufgelegt haben. Es ist deutlich gr&#xF6;&#xDF;er als das bei der Finanzkrise 2008 und 2009, als wir 80&#xA0;Milliarden Euro investiert haben. Dieses Mal werden es 130&#xA0;Milliarden Euro sein f&#xFC;r Wirtschaft und B&#xFC;rger, Steuerzahler, Arbeitnehmer und Arbeitgeber. Meine Damen und Herren, ich verstehe nicht ganz, dass hier der Versuch unternommen wird, dieses Paket zu kritisieren und zu behaupten, es w&#xFC;rde bei den Menschen nicht ankommen. Ich habe heute feststellen m&#xFC;ssen, dass die linke Seite davon spricht, gerade die Mehrwertsteuerentlastung w&#xFC;rde nichts bringen.</p>
+				<kommentar>(Kersten Steinke [DIE LINKE]: Ist auch so! Werden Sie noch merken!)</kommentar>
+				<p klasse="O">Ich kann Ihnen an dieser Stelle nur raten, das doch noch einmal zu &#xFC;berpr&#xFC;fen. Wir entlasten gerade hier die mittleren und kleinen Einkommen in besonderer Art und Weise. Dass Sie jetzt davon reden, dass das nichts bringen w&#xFC;rde, deutet eigentlich darauf hin: Sie wollen &#xFC;berhaupt keine Entlastungen der Bezieher mittlerer und kleiner Einkommen.</p>
+				<kommentar>(Widerspruch bei der LINKEN)</kommentar>
+				<p klasse="O">Sie wollen ausschlie&#xDF;lich Belastungen der h&#xF6;heren Einkommen.</p>
+				<kommentar>(Abg. Martin Sichert [AfD] meldet sich zu einer Zwischenfrage)</kommentar>
+				<p klasse="O">Geben Sie mal die ideologischen Scheuklappen auf, die Sie haben, und arbeiten Sie mit den Menschen daf&#xFC;r, dass das besser wird.</p>
+				<kommentar>(Beifall bei Abgeordneten der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Herr Kollege Dobrindt, gestatten Sie eine Zwischenfrage?</p>
+				<p klasse="redner">
+					<redner id="11003516">
+						<name>
+							<vorname>Alexander</vorname>
+							<nachname>Dobrindt</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Alexander Dobrindt (CDU/CSU):</p>
+				<p klasse="J_1">Nein.</p>
+				<kommentar>(Stephan Protschka [AfD]: Das nennt er Demokratie!&#xA0;&#x2013; Weitere Zurufe von der AfD)</kommentar>
+				<p klasse="O">&#x2013; Wenn man sich diese Zwischenrufe der AfD und auch die Rede von Herrn Glaser anh&#xF6;rt, wei&#xDF; man: Eigentlich sind sie es wirklich nicht wert, darauf besonders einzugehen.</p>
+				<kommentar>(Beifall bei Abgeordneten der CDU/CSU und der SPD)</kommentar>
+				<p klasse="O">Aber ich muss Ihnen sagen: In der Situation, in der wir uns zurzeit befinden, in der wir auf Zusammenhalt und Solidarit&#xE4;t angewiesen sind, so eine Rede zu halten, die eigentlich nur davon gepr&#xE4;gt ist,</p>
+				<kommentar>(Beatrix von Storch [AfD]: Von Fakten!)</kommentar>
+				<p klasse="O">antieurop&#xE4;ische Ressentiments zu sch&#xFC;ren, ist wirklich v&#xF6;llig verfehlt.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD, der FDP und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Ich kann Ihnen nur sagen: Europa ist ein Solidarit&#xE4;tsversprechen. Das ist das Grundprinzip in Europa. Jetzt zu behaupten, dass alle unsere Nachbarn Alkoholiker w&#xE4;ren, die am Tropf Deutschlands h&#xE4;ngen w&#xFC;rden&#xA0;&#x2013; das war Ihre Rede&#xA0;&#x2013;, ist ja an Dummheit nicht zu &#xFC;berbieten, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der FDP, der LINKEN und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Wissen Sie, wir legen Wert darauf, festzustellen, dass wir all diejenigen unterst&#xFC;tzen, die sich jetzt in Europa in einer schwierigen Lage befinden, die unverschuldet in diese krisenhafte Situation gekommen sind. Wenn es einem Nachbarn schlecht geht, weil er unverschuldet in eine Krise gekommen ist, dann ist es die verdammte Pflicht und Schuldigkeit, zu helfen, zu unterst&#xFC;tzen und daf&#xFC;r zu sorgen, aus dieser krisenhaften Situation rauszukommen. Es geht nicht an, sie als Alkoholiker zu beschimpfen.</p>
+				<kommentar>(Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der FDP und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN&#xA0;&#x2013; Zurufe der AfD)</kommentar>
+				<p klasse="J">Wahrscheinlich wird Ihnen das auch nicht gefallen, aber ich erw&#xE4;hne es genau deswegen: Ich bin ausdr&#xFC;cklich dankbar, dass unser Bundesminister Gerd M&#xFC;ller mit Unterst&#xFC;tzung des Finanzministers und des Wirtschaftsministers daf&#xFC;r gesorgt hat, dass wir unsere Verantwortung auch &#xFC;ber Europa hinaus wahrnehmen und dass wir zur Bek&#xE4;mpfung der Pandemie in Entwicklungsl&#xE4;ndern zus&#xE4;tzlich 3&#xA0;Milliarden Euro investieren. Es geh&#xF6;rt auch zu einem Solidarit&#xE4;tsversprechen, dass der, der st&#xE4;rker ist, denen hilft, die schw&#xE4;cher sind. Das ist die Aufgabe, die wir gemeinsam in Deutschland wahrnehmen. Das ist die Aufgabe dieses Konjunkturpakets.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Es ist unser Versprechen an die Bev&#xF6;lkerung in Deutschland, in Europa und in der Welt, dass die, die st&#xE4;rker sind, daf&#xFC;r sorgen, dass alle besser aus dieser Krise herauskommen.</p>
+				<p klasse="J">Herzlichen Dank.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Zu einer Zwischenbemerkung erteile ich das Wort dem Kollegen Martin Sichert, AfD.</p>
+				<kommentar>(Zurufe von der SPD: Oh!)</kommentar>
+			</rede>
+			<rede id="ID1916800400">
+				<p klasse="redner">
+					<redner id="11004892">
+						<name>
+							<vorname>Martin</vorname>
+							<nachname>Sichert</nachname>
+							<fraktion>AfD</fraktion>
+						</name>
+					</redner>Martin Sichert (AfD):</p>
+				<p klasse="J_1">Herr Dobrindt, Sie haben gerade ganz viel geredet. Wir sehen jetzt an vielen Stellen im Gesetz, wo Geld ausgegeben wird. Sie haben unter anderem gesagt: Deutschland wird moderner.</p>
+				<p klasse="J">Sie geben relativ sinnlos ganz viel Geld aus, beispielsweise f&#xFC;r Elektromobilit&#xE4;t. Sie wird jetzt explizit noch mehr gef&#xF6;rdert. Das Institut f&#xFC;r Weltwirtschaft hat letzte Woche erkl&#xE4;rt, dass die Elektroautos 73&#xA0;Prozent mehr Emissionen in die Luft schleudern als moderne Dieselfahrzeuge.</p>
+				<kommentar>(Widerspruch bei der SPD)</kommentar>
+				<p klasse="J">Wir sehen: Sie wollen eine Vergemeinschaftung der Schulden in der EU. Sie wollen immer mehr Geld f&#xFC;r Europa ausgeben, und Sie geben auch immer mehr Geld der Steuerzahler aus. Auf der anderen Seite sehen wir: Sie lassen die Schw&#xE4;chsten im Land hinten runterfallen. Da m&#xF6;chte ich von Ihnen gerne wissen: Wie passt das zusammen?</p>
+				<kommentar>(Katrin G&#xF6;ring-Eckardt [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN]: Keine Redezeit bekommen?)</kommentar>
+				<p klasse="J">Es steht in dieser Woche auch das Intensivpflege- und Rehabilitationsst&#xE4;rkungsgesetz auf dem Programm. Da droht die Regierung Zehntausenden schwerbehinderten Menschen in diesem Land damit, dass diese Menschen k&#xFC;nftig Tausende Euro Zuzahlungen extra leisten m&#xFC;ssen, wenn sie weiter zu Hause gepflegt werden wollen. Das Seelenheil vieler dieser Menschen h&#xE4;ngt daran, dass sie zu Hause, bei ihren Verwandten, bei ihrer Familie sein k&#xF6;nnen. Sie wollen diese Menschen jetzt k&#xFC;nftig ins Heim abschieben, um ein paar Euro einzusparen. Auf der anderen Seite geben Sie Hunderte Milliarden Euro aus. Wie passt das zusammen? Ist in diesem modernen Deutschland, von dem Sie reden, kein Platz mehr f&#xFC;r die Schw&#xE4;chsten der Gesellschaft?</p>
+				<kommentar>(Beifall bei der AfD)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Herr Kollege Dobrindt, Sie k&#xF6;nnen antworten, wenn Sie m&#xF6;gen.</p>
+				<kommentar>(Dr.&#xA0;Petra Sitte [DIE LINKE: Der Antrag gegen Menschen mit Behinderung kam von der AfD!&#xA0;&#x2013; Gegenruf der Abg. Dr.&#xA0;Alice Weidel [AfD]: Ach Gott, ist das l&#xE4;cherlich!&#xA0;&#x2013; Gegenruf der Abg. Britta Ha&#xDF;elmann [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN]: Das war so, Frau Weidel! Da m&#xFC;ssen Sie sich mal erkundigen, was Ihr Laden so macht!&#xA0;&#x2013; Gegenruf der Abg. Dr.&#xA0;Alice Weidel [AfD]: Ach, bleiben Sie doch bei der Sache! Dummes Gequake von Ihnen!)</kommentar>
+			</rede>
+			<rede id="ID1916800500">
+				<p klasse="redner">
+					<redner id="11003516">
+						<name>
+							<vorname>Alexander</vorname>
+							<nachname>Dobrindt</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Alexander Dobrindt (CDU/CSU):</p>
+				<p klasse="J_1">Vielleicht kann man die Zwischengespr&#xE4;che, die gegenseitigen Beschimpfungen hier einmal kurz einstellen.</p>
+				<kommentar>(Britta Ha&#xDF;elmann [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN]: Lohnt sich nicht!)</kommentar>
+				<p klasse="J">Herr Sichert, wissen Sie, diese Krise hat uns in eine Situation gebracht, in der sich ganz viele Menschen in eine schwierige Lage versetzt sehen.</p>
+				<kommentar>(Beatrix von Storch [AfD]: Eben auch bei uns!)</kommentar>
+				<p klasse="O">&#x2013; Ja.&#xA0;&#x2013; Heute gibt es Unsicherheiten &#xFC;ber die Frage: Wie geht es mit der Wirtschaft, wie geht es mit der Arbeit, wie geht es mit dem eigenen Arbeitsplatz weiter? Das Versprechen, das diese Bundesregierung und dieses Parlament abgeben, ist, daf&#xFC;r zu sorgen, dass wir die krisenbedingten Sch&#xE4;den bestm&#xF6;glich absichern.</p>
+				<p klasse="J">Das bestm&#xF6;gliche Absichern haben wir in den vergangenen Monaten auch dadurch gezeigt, dass wir Programme aufgelegt haben, um genau diejenigen, die in besondere Schwierigkeiten gekommen sind, zu unterst&#xFC;tzen.</p>
+				<kommentar>(Zuruf der Abg. Beatrix von Storch [AfD])</kommentar>
+				<p klasse="O">Das sieht man beispielsweise daran, dass wir ein Kurzarbeitergeld eingerichtet haben, das es m&#xF6;glich macht, nicht in die Arbeitslosigkeit zu kommen.</p>
+				<p klasse="J">Wir werden dieses Versprechen auch weiter halten. Dieses Versprechen erf&#xFC;llen wir, indem wir Geld aufwenden und daf&#xFC;r sorgen, dass es denen besser geht, die jetzt in eine schwierige Lage gekommen sind. Aber dazu muss auch die Bereitschaft zur Solidarit&#xE4;t da sein. Vor allem muss auch die Bereitschaft da sein, zu erkennen, dass wir genau diese Chance nur deswegen haben, weil wir in der Vergangenheit gut gewirtschaftet und daf&#xFC;r gesorgt haben, dass wir &#xFC;ber Finanzen verf&#xFC;gen, mit denen wir den Schwachen helfen k&#xF6;nnen.</p>
+				<kommentar>(Zurufe von der AfD)</kommentar>
+				<p klasse="J">Das ist die Aufgabe. Deswegen wehre ich mich dagegen, dass hier der Versuch unternommen wird, der Bundesregierung und dem Parlament zu unterstellen, sie w&#xFC;rden die Schwachen jetzt nicht unterst&#xFC;tzen. Ihre Reden haben gezeigt: Sie wollen die Schwachen nicht unterst&#xFC;tzen. Sie polemisieren gegen Europa und gegen diejenigen, die Hilfe brauchen. Deswegen: Sch&#xE4;men Sie sich f&#xFC;r Ihre Beitr&#xE4;ge.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD&#xA0;&#x2013; Dr.&#xA0;Alexander Gauland [AfD]: Das ist alles, was &#xFC;brig bleibt! Das ist ein bisschen wenig!)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt erteile ich das Wort dem Kollegen Christian D&#xFC;rr, FDP.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+			</rede>
+			<rede id="ID1916800600">
+				<p klasse="redner">
+					<redner id="11004705">
+						<name>
+							<vorname>Christian</vorname>
+							<nachname>D&#xFC;rr</nachname>
+							<fraktion>FDP</fraktion>
+						</name>
+					</redner>Christian D&#xFC;rr (FDP):</p>
+				<p klasse="J_1">Vielen Dank.&#xA0;&#x2013; Herr Pr&#xE4;sident! Verehrte Kolleginnen und Kollegen! Herr Kollege Dobrindt, ich will Ihnen zugutehalten, dass Sie heute anders als Herr Glaser zum vorliegenden Zweiten Corona-Steuerhilfegesetz gesprochen haben.</p>
+				<kommentar>(Alexander Dobrindt [CDU/CSU]: Ja!)</kommentar>
+				<p klasse="J">Liebe Kollegen der AfD, Sie k&#xF6;nnen &#xFC;ber viel reden. Aber offensichtlich sind Sie nicht in der Lage, erstens zu arbeiten und zweitens &#xFC;ber die jetzt notwendige Steuer- und Finanzpolitik f&#xFC;r Deutschland zu reden.</p>
+				<kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="O">Ich will Ihnen das sagen, Herr Glaser: Sie sind nicht mal in der Lage gewesen, zu diesem Gesetzentwurf, an dem Sie offensichtlich Kritik &#xFC;ben, konkrete &#xC4;nderungsvorschl&#xE4;ge vorzulegen. Ich nenne das Arbeitsverweigerung, Herr Glaser. Sie tun gar nichts im Deutschen Bundestag! Sie sind eine &#xFC;berfl&#xFC;ssige Fraktion, um das in aller Klarheit zu sagen!</p>
+				<kommentar>(Beifall bei der FDP, der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN&#xA0;&#x2013; Widerspruch bei der AfD)</kommentar>
+				<p klasse="J">Herr Kollege Dobrindt, Sie haben aus Ihrer Sicht das Herzst&#xFC;ck dieses Gesetzentwurfes angesprochen: Das ist die vor&#xFC;bergehende Mehrwertsteuersenkung in Deutschland. In den letzten Wochen ist eines immer klarer geworden: Das ist nicht nur nicht die ausreichende Antwort auf diese Krise, sondern es ist auch nicht die richtige Antwort.</p>
+				<p klasse="J">Sie ist erstens verbunden mit einem absurden b&#xFC;rokratischen Aufwand. Der Normenkontrollrat, der uns bei der Frage ber&#xE4;t, wie b&#xFC;rokratisch die Gesetze der Gro&#xDF;en Koalition sind, musste Sie erst mal auffordern, &#xFC;berhaupt vorzulegen, mit welchem Aufwand dieses Gesetz f&#xFC;r den deutschen Mittelstand verbunden ist. Dann war die Antwort aus dem Haus von Olaf Scholz&#xA0;&#x2013; Zitat&#xA0;&#x2013;: Da keine Gesamtaussage getroffen werden kann, wird ein Zeitaufwand von durchschnittlich f&#xFC;nf Minuten auf Basis von zwei Befragungen veranschlagt. Insgesamt entsteht ein einmaliger Zeitaufwand von zehn Minuten.</p>
+				<p klasse="J">Viele Mittelst&#xE4;ndler in Deutschland, liebe Kolleginnen und Kollegen von Union und SPD, wissen angesichts dieser Worte nicht, ob sie lachen oder weinen sollen. Das ist ein Schlag ins Gesicht des deutschen Mittelstandes, gerade in einer solchen Krise. Diesen Vorwurf m&#xFC;ssen Sie sich gefallen lassen.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Zweitens ist es&#xA0;&#x2013; das sagen Sie ja teilweise selbst&#xA0;&#x2013; mehr als fraglich, ob das Geld wirklich bei den Menschen ankommt.</p>
+				<kommentar>(Zuruf des Abg. Carsten Schneider [Erfurt] [SPD])</kommentar>
+				<p klasse="O">Selbst im optimistischsten Fall&#xA0;&#x2013; unterstellt, dass das Geld komplett im Portemonnaie der Menschen landet&#xA0;&#x2013; sind es 30&#xA0;Euro f&#xFC;r einen durchschnittlichen Haushalt pro Monat, meine Damen und Herren.</p>
+				<p klasse="J">Meine Bef&#xFC;rchtung ist: Die Profiteure dieses Gesetzes werden diejenigen sein, die in der Krise gerade nicht gelitten haben, beispielsweise die Onlineversandh&#xE4;ndler. Es ist nicht fair, den deutschen Mittelstand mit B&#xFC;rokratie zu belasten, aber H&#xE4;ndler wie Amazon zu entlasten. Das ist das falsche Signal, gerade in einer Konjunkturkrise, liebe Kollegen.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Genau deshalb legen wir Ihnen heute sehr konkrete &#xC4;nderungsantr&#xE4;ge vor und benennen Alternativen:</p>
+				<p klasse="J">Erstens: die vollst&#xE4;ndige Abschaffung des Solidarit&#xE4;tszuschlages, und zwar r&#xFC;ckwirkend zum 1.&#xA0;Januar f&#xFC;r alle Einkommen; denn alle, auch Bezieher kleiner und mittlerer Einkommen, zahlen im Jahr 2020 noch den Soli. Das Geld w&#xFC;rde ganz konkret im Portemonnaie der Menschen ankommen, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Zweitens: zum 1.&#xA0;Januar die vollst&#xE4;ndige Abschaffung des Mittelstandsbauchs. Auch das wirkt gerade f&#xFC;r kleine und mittlere Einkommen. Das w&#xFC;rde ganz konkret im Portemonnaie der Menschen in Deutschland ankommen, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der FDP&#xA0;&#x2013; Zuruf von der CDU/CSU: Zu sp&#xE4;t!)</kommentar>
+				<p klasse="J">Und drittens. Wir haben Ihnen einen Vorschlag f&#xFC;r eine negative Gewinnsteuer f&#xFC;r die privaten Unternehmen in Deutschland vorgelegt. Ja, Sie steigen mit der steuerlichen Verlustverrechnung ein, aber in einem minimalen Umfang. Die Union hat sich an dieser Stelle gegen&#xFC;ber der SPD in Wahrheit nicht durchgesetzt. Wenn wir das beschlie&#xDF;en, was wir vorschlagen, &#xFC;ber die steuerliche Verlustverrechnung in H&#xF6;he von 25&#xA0;Milliarden ganz konkret die Unternehmen in Deutschland jetzt zu entlasten, dann w&#xE4;re nicht nur ihre Liquidit&#xE4;t gesichert, sondern Sie k&#xF6;nnten endlich wieder Vertrauen in Zukunftsinvestitionen schaffen. Das w&#xFC;rde dem deutschen Mittelstand und der Konjunktur in Deutschland helfen, liebe Kolleginnen und Kollegen.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Was mich wundert, Herr Dobrindt: Genau das, was ich hier gerade vorgelesen habe, hat die CSU selbst gefordert. Ich frage mich: Wie lange noch fordern Sie in Papieren, in Beschl&#xFC;ssen, auf Parteitagen und als Landesgruppe der CSU Entlastung f&#xFC;r den Mittelstand, f&#xFC;r die mittleren und kleinen Einkommen in Deutschland? Warum bringen Sie das nicht als Gesetzentwurf in den Deutschen Bundestag ein, damit es Recht und Gesetz werden kann und wir den Menschen gerade in der Coronakrise wirklich helfen k&#xF6;nnen?</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Und zum Schluss, Herr Pr&#xE4;sident: Schauen wir mal auf die Experten, die Sie selbst benannt haben. Heute findet eine Anh&#xF6;rung im Haushaltsausschuss statt. Ich habe mir die Anh&#xF6;rungsstellungnahmen Ihrer Experten durchgelesen. Sie sagen: Die Mehrwertsteuersenkung ist ineffizient und b&#xFC;rokratisch. Es ist fraglich, ob sie ankommt.&#xA0;&#x2013; Und wissen Sie, was sie loben? Die loben unseren Vorschlag f&#xFC;r die negative Gewinnsteuer.</p>
+				<p klasse="J">Liebe Kollegen von der Union, wenn Sie schon nicht auf uns h&#xF6;ren wollen, dann rate ich Ihnen an der Stelle dringend, auf Ihre eigenen, von Ihnen selbst benannten Experten zu h&#xF6;ren. Dieser Gesetzentwurf wird nicht den Konjunkturimpuls bringen, den wir uns alle erhoffen und den Deutschland jetzt braucht. Deswegen: Stimmen Sie gleich den drei &#xC4;nderungsantr&#xE4;gen der Freien Demokraten zu! Das w&#xE4;re der Konjunkturimpuls f&#xFC;r die privaten Haushalte und Unternehmen.</p>
+				<p klasse="J">Ich danke Ihnen.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt erteile ich das Wort der Kollegin Dr.&#xA0;Sahra Wagenknecht, Die Linke.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+			</rede>
+			<rede id="ID1916800700">
+				<p klasse="redner">
+					<redner id="11004183">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Sahra</vorname>
+							<nachname>Wagenknecht</nachname>
+							<fraktion>DIE LINKE</fraktion>
+						</name>
+					</redner>Dr.&#xA0;Sahra Wagenknecht (DIE LINKE):</p>
+				<p klasse="J_1">Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! In einer Krise, wie wir sie heute erleben, ist es die erste und wichtigste Aufgabe einer Regierung, Sicherheit zu geben, selbst zu investieren und da zu helfen, wo Hilfe n&#xF6;tig ist, Kaufkraft zu st&#xE4;rken. Daf&#xFC;r braucht es ein gro&#xDF;es Konjunkturpaket. Aber es braucht eins, das zielgenau und klug das Geld dahin leitet, wo es wirklich gebraucht wird, wo Zukunftstechnologie, wo Lebensqualit&#xE4;t in unserem Land davon abh&#xE4;ngen, und das leistet Ihr Paket leider kaum.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<p klasse="J">Ja, Hilfen f&#xFC;r St&#xE4;dte und Gemeinden und Steuererleichterungen f&#xFC;r betroffene Firmen&#xA0;&#x2013; das ist richtig. Auch der Kinderbonus kommt Familien zugute, die es brauchen. Das unterst&#xFC;tzen wir. Aber das sind leider alles ziemlich kleine Posten.</p>
+				<p klasse="J">Der teuerste Teil ist die Absenkung der Mehrwertsteuer f&#xFC;r sechs Monate, und wenig spricht daf&#xFC;r, dass dieses viele Geld wirklich bei den Verbrauchern ankommt. Es gibt ja Untersuchungen, es gibt EU-weite Studien &#xFC;ber die Wirkung von Mehrwertsteuersenkungen. Das Ergebnis dieser Studien ist, dass gerade mal im Schnitt 15&#xA0;Prozent &#xFC;ber sinkende Preise weitergegeben werden. Das hei&#xDF;t, von 20&#xA0;Milliarden Euro Steuergeld k&#xE4;men dann gerade mal 3&#xA0;Milliarden bei den Verbrauchern, bei den Konsumenten an.</p>
+				<p klasse="J">Den Rest kassieren Unternehmen, &#xFC;berwiegend solche mit gro&#xDF;er Marktmacht, beispielsweise das schon angesprochene Amazon, ein Krisengewinnler, dessen Chef sein Verm&#xF6;gen gerade um unglaubliche 35&#xA0;Milliarden Dollar gesteigert hat, ein Unternehmen, das in Deutschland nahezu keine Steuern zahlt und das seine Besch&#xE4;ftigten miserabel behandelt. Und denen wollen Sie jetzt auch noch einen zus&#xE4;tzlichen Steuerscheck &#xFC;berreichen! Das k&#xF6;nnen Sie doch niemandem erkl&#xE4;ren, und das kann man auch nicht rechtfertigen.</p>
+				<kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Ja, auch wer im n&#xE4;chsten halben Jahr gr&#xF6;&#xDF;ere Anschaffungen t&#xE4;tigt, wird etwas von der Senkung haben. Aber wer ist das denn? Leute wie wir hier im Bundestag, die relativ wohlhabend sind, die ein sicheres Einkommen haben. Aber glauben Sie im Ernst, dass irgendjemand, der gerade um seinen Arbeitsplatz oder seine soziale Existenz f&#xFC;rchtet, im Moment keine anderen Sorgen hat, als sich ein Auto oder eine neue K&#xFC;che zu kaufen?</p>
+				<p klasse="J">Von dem Betrag, den die Senkung der Mehrwertsteuer kostet, h&#xE4;tte man 20&#xA0;Millionen Familien mit niedrigem Einkommen oder mit krisenbedingten Verlusten, also jedem zweiten Haushalt in Deutschland, einen Konsumscheck &#xFC;ber 1&#x202F;000&#xA0;Euro schicken k&#xF6;nnen, der im station&#xE4;ren Handel, in Restaurants, in Caf&#xE9;s, in Hotels im Inland eingesetzt werden kann. Damit h&#xE4;tten Sie vielen Menschen jetzt in der Krise eine echte Freude gemacht, und Sie h&#xE4;tten gezielt Einzelh&#xE4;ndlern und Gastwirten geholfen.</p>
+				<kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Ihre Unf&#xE4;higkeit, Geld dahin zu lenken, wo es wirklich gebraucht wird, ist schon auffallend, finde ich. Da bekommen Unternehmen Staatshilfen, denen es immerhin so gut geht, dass sie mitten in der Krise Milliarden an Dividenden aussch&#xFC;tten k&#xF6;nnen; aber Freiberufler und Solo-Selbstst&#xE4;ndige, denen das Einkommen weggebrochen ist, werden von Ihnen k&#xFC;hl auf Hartz&#xA0;IV verwiesen. Wir finden das unglaublich.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<p klasse="J">Allein von den 770&#xA0;Millionen Euro Dividende, mit denen BMW gerade die Milliard&#xE4;re Quandt und Klatten begl&#xFC;ckt hat&#xA0;&#x2013; 770&#xA0;Millionen, jetzt in der Krise!&#xA0;&#x2013;, h&#xE4;tte dieses Unternehmen die Geh&#xE4;lter seiner Kurzarbeiter ohne Probleme selbst weiterbezahlen k&#xF6;nnen.</p>
+				<kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="O">Und nat&#xFC;rlich ist Kurzarbeitergeld auch eine Staatshilfe; denn es wird in diesem Jahr &#xFC;berwiegend aus Steuergeld bezahlt.</p>
+				<p klasse="J">Genauso ersch&#xFC;tternd ist, wie schnell Sie all diejenigen wieder vergessen haben, die Sie noch vor Kurzem mit Beifall und warmen Worten &#xFC;bersch&#xFC;ttet haben, all die vielen, die tagt&#xE4;glich in den Krankenh&#xE4;usern und Pflegeheimen schuften, in den Superm&#xE4;rkten oder als Postzusteller. Nichts hat sich ge&#xE4;ndert an der miserablen Bezahlung in einem der gr&#xF6;&#xDF;ten Niedriglohnsektoren Europas, den Sie geschaffen haben, nichts hat sich ge&#xE4;ndert an Tarifflucht und irregul&#xE4;rer Besch&#xE4;ftigung.</p>
+				<p klasse="J">Stattdessen holt Herr Altmaier jetzt die Verl&#xE4;ngerung der Laden&#xF6;ffnungszeiten aus der Mottenkiste, als ob die Uhrzeit und nicht Zukunfts&#xE4;ngste und Unsicherheit der Grund sind, der vielen Menschen die Shoppinglaune verdorben hat. Und gut bezahlte Politiker der Union denken offen und &#xF6;ffentlich dar&#xFC;ber nach, ob man die n&#xE4;chste Erh&#xF6;hung des Mindestlohnes nicht mal eben aussetzen k&#xF6;nnte, und das bei derart gestiegenen Lebensmittelpreisen! Das ist doch alles emp&#xF6;rend, das ist nicht christlich. Das ist sch&#xE4;big, was Sie hier machen!</p>
+				<kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten des B&#xDC;NDNISSES&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">So eine Politik spaltet unser Land und verspielt unsere Zukunft. Denn die schwere Krise, die wir gerade erleben, ist eben nicht nur Folge der Pandemie. Dem wichtigsten Bereich f&#xFC;r unseren Wohlstand, der Industrie, sind doch schon im letzten Jahr die Auftr&#xE4;ge weggebrochen. Seit Jahren fallen wir technologisch zur&#xFC;ck. Das ist nicht nur, aber auch Ergebnis Ihrer Politik, die eben lieber Fleischbarone wie T&#xF6;nnies darin unterst&#xFC;tzt, mit Billigl&#xF6;hnen und brutaler Ausbeutung den gesamten Fleischmarkt in Europa aufzurollen, als hier Hochtechnologie zu f&#xF6;rdern; die lieber glaubt, mit Wirecard und solchen Schummelunternehmen international auf den Finanzm&#xE4;rkten was zu rei&#xDF;en, als wirklich hier zu investieren und zu sichern, dass unsere industrielle Wertsch&#xF6;pfung erhalten bleibt.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<p klasse="J">Deswegen sage ich: Nehmen Sie Ihre Verantwortung wahr! Machen Sie endlich mal Politik f&#xFC;r die Mehrheit, statt abzuwarten, bis unsere Demokratie an sozialer Polarisierung und Verteilungsk&#xE4;mpfen um einen kleiner werdenden Kuchen zerbricht.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt hat der Kollege Dr.&#xA0;Danyal Bayaz, B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen, das Wort.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+			</rede>
+			<rede id="ID1916800800">
+				<p klasse="redner">
+					<redner id="11004664">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Danyal</vorname>
+							<nachname>Bayaz</nachname>
+							<fraktion>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</fraktion>
+						</name>
+					</redner>Dr.&#xA0;Danyal Bayaz (B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN):</p>
+				<p klasse="J_1">Guten Morgen, Herr Pr&#xE4;sident! Meine Damen und Herren! Herr Scholz, Sie haben ja einen gro&#xDF;en Wumms angek&#xFC;ndigt. Aber geliefert haben Sie, ehrlich gesagt, eine gewagte, eine unkalkulierbare Wette, n&#xE4;mlich die Senkung der Mehrwertsteuer. Wir haben das heute schon ein paarmal geh&#xF6;rt: Das ist das Herzst&#xFC;ck des Konjunkturpaketes. Doch ob, wie und wem dieses Herzst&#xFC;ck wirklich helfen wird: Sie wissen es nicht. Ob es wirklich die Nachfrage ankurbeln wird: Sie wissen es nicht. Wird die Senkung der Mehrwertsteuer wirklich zu einer Reduzierung der Preise f&#xFC;hren? Sie wissen es nicht. Einzelne Verb&#xE4;nde und Unternehmen haben bereits angek&#xFC;ndigt, dass sie genau das eben nicht machen werden.</p>
+				<p klasse="J">Bei allem Respekt: Wir reden hier nun mal &#xFC;ber 20&#xA0;Milliarden Euro. Wenn man eine Ma&#xDF;nahme als &#x201E;Herzst&#xFC;ck&#x201C; bezeichnet, dann kann man eben nicht nur glauben und hoffen; dann sollte man sich schon einigerma&#xDF;en&#xA0;&#x2013; ziemlich&#xA0;&#x2013; sicher sein, dass sie am Ende auch etwas bringt. Das sind Sie nicht, und das k&#xF6;nnen Sie ja auch gar nicht sein.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Deswegen ist diese Senkung der Mehrwertsteuer nicht einmal die zweitbeste L&#xF6;sung, meine Damen und Herren. Sie h&#xE4;tten die Bev&#xF6;lkerung viel zielgenauer, viel effektiver, auch viel unb&#xFC;rokratischer entlasten k&#xF6;nnen, wenn Sie zum Beispiel die EEG-Umlage deutlich st&#xE4;rker gesenkt h&#xE4;tten. Das h&#xE4;tten wir unterst&#xFC;tzt.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="O">Das h&#xE4;tte ganz unkompliziert die Kaufkraft der Bev&#xF6;lkerung gest&#xE4;rkt. Auch Unternehmen h&#xE4;tten davon profitiert. Und ja, mit einer klugen Kombination mit einer EEG-Reform h&#xE4;tte das sogar einen gro&#xDF;en Beitrag f&#xFC;r die &#xF6;kologische Modernisierung unseres Landes leisten k&#xF6;nnen, meine Damen und Herren.</p>
+				<p klasse="J">Herr Dobrindt, ich habe Sie heute kaum wiedererkannt. Sie haben v&#xF6;llig recht: Wenn es um Europa geht, dann stehen Demokratinnen und Demokraten zusammen. Die ganze gr&#xFC;ne Fraktion hat heute applaudiert; das kommt ja nicht so h&#xE4;ufig vor. Aber Sie haben auch sehr deutlich &#xFC;ber die &#xF6;kologische Modernisierung gesprochen. Ich bin ja echt &#xFC;berrascht von diesen Spillover-Effekten: Nachdem der S&#xF6;der ergr&#xFC;nt ist und jetzt der Merz auf Stalking-Kurs ist,</p>
+				<kommentar>(Heiterkeit beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP)</kommentar>
+				<p klasse="O">haben auch Sie heute was dazu gesagt. Ich erinnere mich allerdings, dass gerade Ihr Fraktionschef im Europaparlament vorgestern den Green Deal infrage gestellt hat. Solange Sie bei der Frage nicht klar sind, nehmen wir Sie beim Thema &#x201E;&#xF6;kologische Modernisierung&#x201C; auch nicht ernst, meine Damen und Herren.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Was die Genauigkeit dieses Konjunkturpakets angeht, mangelt es auch an der Unterst&#xFC;tzung von kleinen und mittleren Unternehmen und von Solo-Selbstst&#xE4;ndigen. Ja, Sie verbessern die Liquidit&#xE4;t von Unternehmen durch die Erweiterung der steuerlichen Verlustverrechnung. Aber Sie f&#xF6;rdern auch hier eben nicht alle gleich. Gerade kleine und mittlere Unternehmen haben eben weniger von diesem Vorschlag. Das haben uns auch alle Experten und Expertinnen in den Anh&#xF6;rungen, die wir im Ausschuss gehabt haben, best&#xE4;tigt. Da k&#xF6;nnen Sie sich auch die Sonntagsreden &#xFC;ber den Mittelstand als R&#xFC;ckgrat unserer Wirtschaft sparen. Dieses R&#xFC;ckgrat h&#xE4;tten Sie viel zielgenauer st&#xE4;rken k&#xF6;nnen, wenn man die Verlustr&#xFC;cktr&#xE4;ge &#xFC;ber mehrere Jahre verteilt h&#xE4;tte. Leider tun Sie es nicht, meine Damen und Herren.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="J">Auch die Solo-Selbstst&#xE4;ndigen ignorieren Sie in Ihrem Konjunkturpaket. Nehmen wir die Grafikerin, nehmen wir den selbstst&#xE4;ndigen IT-Berater: Na ja, denen helfen halt die Betriebskostenzusch&#xFC;sse nichts. Hier geht es nat&#xFC;rlich auch darum, die Lebenshaltungskosten zu decken, bis die Ums&#xE4;tze irgendwann wieder anziehen. Und ja, Solo-Selbstst&#xE4;ndige sind auch Treiber von Strukturwandel. Sie sind auch Treiber von Wettbewerbsf&#xE4;higkeit eines Industriestandortes. Gro&#xDF;e Unternehmen und auch die &#xF6;ffentliche Verwaltung sind angewiesen auf die Unterst&#xFC;tzung und die Dienstleistung von Solo-Selbstst&#xE4;ndigen. Ich sage jetzt mal ganz ehrlich: Ihre ganzen Bekenntnisse zur Gr&#xFC;nderkultur, zur zweiten Chance, zu mehr Mut zur Selbstst&#xE4;ndigkeit k&#xF6;nnen Sie sich in die Haare schmieren, wenn Sie diese kreative Klasse an der Stelle h&#xE4;ngen lassen, meine Damen und Herren.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN sowie bei Abgeordneten der FDP)</kommentar>
+				<p klasse="J">Auch Familien h&#xE4;tte die Regierung zielgenauer unterst&#xFC;tzen k&#xF6;nnen. Diese Krise war und ist f&#xFC;r Eltern und Kinder eine schwierige Zeit. In Schulen und Kitas haben wir viel Stress erlebt. Es waren gerade Frauen, die zu Hause viel Verantwortung &#xFC;bernommen haben. Gerade viele alleinerziehende sind darunter. Fortschritt ist ja auch immer sozialer Fortschritt. Der ist auch hier leider eine Schnecke. Ja, der Kinderbonus&#xA0;&#x2013; das haben wir heute schon ein paarmal geh&#xF6;rt&#xA0;&#x2013; ist eine vern&#xFC;nftige Sache, gerade auch, weil er mit dem steuerlichen Kinderfreibetrag verrechnet wird und auf die Grundsicherung eben nicht angerechnet wird. Hier kommt das Geld an, wo es wirklich ben&#xF6;tigt wird. Aber gerade bei den Alleinerziehenden ist das nicht so: Die Erh&#xF6;hung des Entlastungsbetrags wirkt umso weniger, je geringer das Einkommen ist. Wir haben das mal durchgerechnet: Ein alleinerziehender Bundestagsabgeordneter oder eine alleinerziehende Bundestagsabgeordnete hat etwa 900&#xA0;Euro mehr in der Tasche. Bei einer Durchschnittsverdienerin sind es gerade mal 350&#xA0;Euro mehr. Das ist nicht gerecht. Gerecht w&#xE4;re eine Steuergutschrift, wie wir sie vorgeschlagen haben, die alle Alleinerziehenden in gleicher H&#xF6;he von ihrer Steuerschuld abziehen k&#xF6;nnen. Das w&#xE4;re eine faire, das w&#xE4;re eine solidarische Ma&#xDF;nahme gewesen, meine Damen und Herren.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN)</kommentar>
+				<p klasse="O">Ihr Fokus auf die Gegenwart in diesem Paket ist richtig. Aber gleichzeitig ist er auch die Schw&#xE4;che dieses Pakets, wenn wir &#xFC;ber Zukunftsf&#xE4;higkeit sprechen.</p>
+				<kommentar>(Ralph Brinkhaus [CDU/CSU]: 50&#xA0;Milliarden f&#xFC;r die Zukunft! 50&#xA0;Milliarden f&#xFC;r die Zukunft!)</kommentar>
+				<p klasse="O">Wir nehmen hier 130&#xA0;Milliarden Euro in die Hand, Herr Brinkhaus, und stellen sehr laut die Frage: Wie k&#xF6;nnen wir das Jahr 2020 st&#xE4;rken?&#xA0;&#x2013; Aber es muss auch um die Fragen gehen: Wie sieht es um 2030 aus? Wie kommen wir st&#xE4;rker, resilienter aus dieser Krise? Ja, das geht mit neuen Technologien und mit neuen Gesch&#xE4;ftsmodellen.</p>
+				<p klasse="J">Ebenso wichtig sind auch klare Rahmenbedingungen f&#xFC;r unsere Wirtschaft. Da vermisse ich bei Ihnen eine Strategie und einen Plan. Ich frage mich auch, ob das mit Ihrem Blick auf die Realit&#xE4;t zusammenh&#xE4;ngt. Ich m&#xF6;chte mal ein Beispiel geben; nehmen wir das Beispiel &#x201E;Wirecard&#x201C;. Dazu hat der Wirtschaftsminister Altmaier letzte Woche tats&#xE4;chlich kommentiert&#xA0;&#x2013; ich zitiere, Herr Pr&#xE4;sident&#xA0;&#x2013;: &#x201E;Wir h&#xE4;tten eine solche Situation &#xFC;berall erwartet&#xA0;&#x2013; nur nicht in Deutschland.&#x201C; Da frage ich mich, Herr Wirtschaftsminister, wo Sie eigentlich in den letzten Jahren waren, wenn es um deutsche Gro&#xDF;banken ging, wenn es um Automobilkonzerne ging, wenn wir uns bei Infrastrukturprojekten zum Gesp&#xF6;tt gemacht haben, wenn wir beim schnellen Internet bestenfalls&#xA0;&#x2013; bestenfalls, wenn ich gro&#xDF;z&#xFC;gig bin&#xA0;&#x2013; in der zweiten Klasse spielen.</p>
+				<p klasse="J">Und wenn ich mir die Kommentare von Herrn Scholz anschaue! Herr Finanzminister, Sie haben ja zuerst die Arbeit der BaFin gelobt, und wenige Stunden sp&#xE4;ter haben Sie Vers&#xE4;umnisse einger&#xE4;umt. Das ist genau die Planlosigkeit, die wir uns in der Finanz- und in der Wirtschaftspolitik nicht mehr l&#xE4;nger leisten k&#xF6;nnen&#xA0;&#x2013; angesichts dieser Krise</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN sowie bei Abgeordneten der FDP)</kommentar>
+				<p klasse="O">und der Milliarden, die wir jetzt in die Hand nehmen, noch weniger als jemals zuvor.</p>
+				<p klasse="J">Herzlichen Dank.</p>
+				<kommentar>(Beifall beim B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN&#xA0;&#x2013; Katrin G&#xF6;ring-Eckardt [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN]: Herr Sch&#xE4;uble war auch daf&#xFC;r!&#xA0;&#x2013; Gegenruf des Abg. Alexander Dobrindt [CDU/CSU]: Der ist freundlicher beurteilt worden!)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Jetzt erh&#xE4;lt das Wort die Kollegin Ingrid Arndt-Brauer, SPD.</p>
+				<kommentar>(Beifall bei der SPD sowie des Abg. Sepp M&#xFC;ller [CDU/CSU])</kommentar>
+			</rede>
+			<rede id="ID1916800900">
+				<p klasse="redner">
+					<redner id="11003422">
+						<name>
+							<vorname>Ingrid</vorname>
+							<nachname>Arndt-Brauer</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Ingrid Arndt-Brauer (SPD):</p>
+				<p klasse="J_1">Sehr geehrter Herr Pr&#xE4;sident! Meine Damen und Herren! Liebe Kolleginnen! Liebe Kollegen! Wir legen heute, denke ich, ein beeindruckendes Ma&#xDF;nahmenpaket vor, was sowohl das Volumen als auch den Inhalt betrifft. Ich m&#xF6;chte ein paar Sachen herausnehmen, die schon angesprochen wurden, und noch ein bisschen mehr verdeutlichen.</p>
+				<p klasse="J">Bei der Einkommensteuer werden wir einen Kinderbonus einf&#xFC;hren. Das bedeutet f&#xFC;r die Familien 300&#xA0;Euro mehr. Wir zahlen das in zwei Tranchen aus: 200&#xA0;Euro im September, wenn die Schulen wieder losgehen, und 100&#xA0;Euro im Oktober. Ja, er wird auf den Kinderfreibetrag angerechnet; das ist auch in Ordnung. Es gibt die G&#xFC;nstigerpr&#xFC;fung. Es kommt aber schon allen Kindern zugute. Das ist uns wichtig. Das kommt so sehr gut bei den Familien an, und das ist auch wichtig.</p>
+				<p klasse="J">Bei den Alleinerziehenden erh&#xF6;hen wir den Entlastungsbetrag sehr stark. Auch das ist uns wichtig.</p>
+				<p klasse="J">Die Umsatzsteuer ist angesprochen worden. Nat&#xFC;rlich, wir befristen die Absenkung von 19 auf 16&#xA0;Prozent und von 7 auf 5&#xA0;Prozent. Dadurch werden sogar die Lebensmittel&#xA0;&#x2013; wo eben angesprochen wurde, dass die sich verteuert haben&#xA0;&#x2013; g&#xFC;nstiger.</p>
+				<p klasse="J">Zur Gewerbesteuer wird mein Kollege Bernhard Daldrup nachher noch was sagen.</p>
+				<p klasse="J">Was mir noch wichtig ist: Die Abgabenordnung &#xE4;ndern wir. Verj&#xE4;hrungsfristen, die durch Corona vielleicht &#xFC;berschritten wurden, gelten dann nicht, wenn es um Steuerhinterziehung und Nachverfolgung von Steuerbetrug geht. Auch das, finde ich, ist ein sehr wichtiges Vorhaben.</p>
+				<p klasse="J">Wir machen noch ein paar andere Sachen, beim Finanzausgleichsgesetz zum Beispiel. Das f&#xFC;hrt dazu, dass die Umsatzsteuersenkung nur zulasten des Bundes geht. Auch das ist, denke ich, gerade f&#xFC;r die Kommunen eine sehr wichtige Ma&#xDF;nahme.</p>
+				<p klasse="J">F&#xFC;r alle, die nachher wieder alles besser gewusst haben: Helfen Sie einfach jetzt mit, nach Ihren M&#xF6;glichkeiten Fehler zu vermeiden, die vielleicht auftreten k&#xF6;nnten! Verhalten Sie sich so, wie wir es uns w&#xFC;nschen:</p>
+				<kommentar>(Lachen bei Abgeordneten der FDP)</kommentar>
+				<p klasse="O">Gehen Sie konsumieren! Fehler ganz vermeiden kann grunds&#xE4;tzlich auch nur der, der nichts macht.</p>
+				<p klasse="J">Ich habe in meinem BWL-Studium gelernt, dass Psychologie sehr wichtig f&#xFC;r wirtschaftliche Entscheidungen ist. Wir alle sind Konsumenten, und wir alle&#xA0;&#x2013; bis auf wenige Ausnahmen&#xA0;&#x2013; stehen nicht unter Quarant&#xE4;ne und haben keine Ausgangssperre. Das hei&#xDF;t: Wir m&#xFC;ssen nicht unbedingt im Internet bestellen, wir m&#xFC;ssen nicht die gro&#xDF;en Internetplattformen st&#xE4;rken. Wir k&#xF6;nnen vor Ort einkaufen, wir k&#xF6;nnen vor Ort konsumieren, und wir k&#xF6;nnen vor Ort unsere Strukturen erhalten. Hier ist auch jeder f&#xFC;r sich gefordert.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="J">Die Mehrwertsteuerabsenkung ist als Unterst&#xFC;tzung f&#xFC;r die Kunden gedacht; das ist richtig, wir wollen damit Nachfrage anregen. Wir k&#xF6;nnen aber nicht alle Unternehmen verpflichten, sie an die Kunden weiterzugeben. Aber auch hier m&#xF6;chte ich um Verst&#xE4;ndnis f&#xFC;r die Unternehmen bitten; denn es gibt auch Unternehmen, die in gro&#xDF;er Bedr&#xE4;ngnis sind und die die Mehrwertsteuerabsenkung vielleicht auch nicht weitergeben sollten, die damit vielmehr ihre Marge erh&#xF6;hen k&#xF6;nnen. Ich denke mal an Restaurantbetriebe, die das einfach auch als Unterst&#xFC;tzungsma&#xDF;nahme brauchen.</p>
+				<p klasse="J">Zum Argument, dass alles so aufwendig ist, dass es f&#xFC;r die Wirtschaft nicht zu schaffen ist und dass es sich f&#xFC;r das halbe Jahr gar nicht lohnt. Da m&#xF6;chte ich ein Beispiel bringen. Ich wohne in einem kleinen Dorf. Dort gibt es einen Dorfladen, und der hat mir heute Morgen geschrieben: Ab &#xFC;bermorgen ist die Mehrwertsteuerabsenkung da, und ab heute wird sie weitergegeben, direkt an der Kasse.&#xA0;&#x2013; Wenn mein kleiner Dorfladen das kann, dann k&#xF6;nnen das andere Unternehmen, denke ich, auch.</p>
+				<kommentar>(Beifall bei Abgeordneten der SPD und der CDU/CSU)</kommentar>
+				<p klasse="J">Ich m&#xF6;chte von hier aus als M&#xFC;nsterl&#xE4;nderin noch ganz speziell gr&#xFC;&#xDF;en die Mitb&#xFC;rgerinnen und Mitb&#xFC;rger aus dem Kreis Warendorf, aus dem Kreis G&#xFC;tersloh und vor allem auch die ostdeutschen Mitb&#xFC;rgerinnen und Mitb&#xFC;rger, die wir da haben. Was da im Moment f&#xFC;r Kampagnen gegen diese Menschen laufen, ist uns&#xE4;glich.</p>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Frau Kollegin, gestatten Sie eine Zwischenfrage?</p>
+				<p klasse="redner">
+					<redner id="11003422">
+						<name>
+							<vorname>Ingrid</vorname>
+							<nachname>Arndt-Brauer</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Ingrid Arndt-Brauer (SPD):</p>
+				<p klasse="J_1">Nein. Ich m&#xF6;chte jetzt eigentlich zu Ende kommen.&#xA0;&#x2013; Die wenigsten G&#xFC;tersloher haben Zerlegebetriebe, und die wenigsten G&#xFC;tersloher versklaven ihre Mitarbeiter. Deswegen m&#xF6;chte ich alle bitten, sich ihr Verhalten mal zu &#xFC;berlegen und vielleicht an die Spr&#xFC;che zu denken, die wir uns fr&#xFC;her gegenseitig ins Poesiealbum geschrieben haben: &#x201E;Was du nicht willst, das man dir tu, das f&#xFC;g auch keinem andern zu.&#x201C; In diesem Sinne m&#xF6;chte ich Sie bitten, dass wir ein bisschen mitmenschlicher miteinander umgehen.</p>
+				<p klasse="J">Wir haben einfach Gl&#xFC;ck gehabt: Wir k&#xF6;nnen hier sitzen, relativ gesund, sind vielleicht nie krank gewesen, oder wir sind vielleicht wieder gesundet. Aber wir haben Gl&#xFC;ck gehabt; andere haben weniger Gl&#xFC;ck. Ich m&#xF6;chte Sie deshalb bitten: Haben Sie Verst&#xE4;ndnis f&#xFC;r jede Region, die gerade Schwierigkeiten hat, und tragen Sie bitte das, was Sie k&#xF6;nnen, dazu bei, dass dieses Ma&#xDF;nahmenpaket auch Erfolg hat&#xA0;&#x2013; als Konsument, als Anbieter, als Nachfrager, als Eltern, als was auch immer. Helfen Sie mit! Dann wird das alles erfolgreich sein.</p>
+				<p klasse="J">Vielen Dank.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Dann erteile ich das Wort zu einer Zwischenbemerkung dem Kollegen Markus Herbrand, FDP.</p>
+			</rede>
+			<rede id="ID1916801000">
+				<p klasse="redner">
+					<redner id="11004745">
+						<name>
+							<vorname>Markus</vorname>
+							<nachname>Herbrand</nachname>
+							<fraktion>FDP</fraktion>
+						</name>
+					</redner>Markus Herbrand (FDP):</p>
+				<p klasse="J_1">Frau Kollegin Arndt-Brauer, Sie haben mehrfach darum gebeten, dass wir Sie auch unterst&#xFC;tzen sollen. Ich denke, die FDP-Fraktion hat mit mehreren &#xC4;nderungsantr&#xE4;gen und anderen Antr&#xE4;gen auch dazu beigetragen. Sie geben im Augenblick sehr, sehr viele Milliarden aus, um diese historische Krise zu bew&#xE4;ltigen, und wir sind in weiten Teilen auch bei Ihnen.</p>
+				<p klasse="J">Sie vers&#xE4;umen aber jetzt zum wiederholten Male, einen Antrag der FDP zu unterst&#xFC;tzen, viele Millionen Arbeitnehmerinnen und Arbeitnehmer von der Erkl&#xE4;rungspflicht bei der Einkommensteuer auszunehmen, n&#xE4;mlich diejenigen, die in Kurzarbeit sind und deshalb jetzt erkl&#xE4;rungspflichtig werden. Sie alle werden mit Nachzahlungen zu rechnen haben. Ganz, ganz viele Milliarden werden ausgegeben. Zu Entlastung dieser Menschen scheint kein Geld da zu sein. Deshalb frage ich Sie jetzt: Wie erkl&#xE4;ren Sie als Vertreterin der SPD Ihren Arbeitnehmerinnen und Arbeitnehmern, dass Sie sich da so verweigern?</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Frau Kollegin Arndt-Brauer, wenn Sie m&#xF6;gen, k&#xF6;nnen Sie antworten.&#xA0;&#x2013; Sie m&#xF6;gen.</p>
+			</rede>
+			<rede id="ID1916801100">
+				<p klasse="redner">
+					<redner id="11003422">
+						<name>
+							<vorname>Ingrid</vorname>
+							<nachname>Arndt-Brauer</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Ingrid Arndt-Brauer (SPD):</p>
+				<p klasse="J_1">Sehr geehrter Herr Kollege, Sie wissen selber: Wir haben im Moment eine au&#xDF;ergew&#xF6;hnliche Situation. Wir haben bestimmte Ma&#xDF;nahmen ergriffen, die wir vorher nicht n&#xF6;tig hatten. Sie m&#xFC;ssen aber trotzdem systematisch reinpassen in das, was wir bisher von den Steuerzahlern verlangt haben, was wir mit ihnen gemacht haben. Insofern haben wir die Situation: Wir haben Menschen, die in Kurzarbeitergeld sind; wir haben Menschen, die in Arbeitslosengeld sind; wir haben Menschen, die vor dem Finanzamt Renten zu deklarieren haben. Es w&#xE4;re schon ein Systembruch, wenn wir eine Gruppe ausnehmen w&#xFC;rden, auch wenn es nat&#xFC;rlich vieles vereinfachte. Aber ich denke, es ist sinnvoll, es so zu machen, wie wir es vorhaben.</p>
+				<kommentar>(Beifall bei Abgeordneten der SPD)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Dann erteile ich das Wort der Kollegin Nadine Sch&#xF6;n, CDU/CSU.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+			</rede>
+			<rede id="ID1916801200">
+				<p klasse="redner">
+					<redner id="11004116">
+						<name>
+							<vorname>Nadine</vorname>
+							<nachname>Sch&#xF6;n</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Nadine Sch&#xF6;n (CDU/CSU):</p>
+				<p klasse="J_1">Sehr geehrter Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! Die Krise hat viele Gesichter, und jeder von uns wird sich an die letzten Wochen und Monate noch lange Zeit erinnern. Da sind Gastronomen, mit denen man gesprochen hat, die fassungslos in ihrem leeren Restaurant standen. Da ist die 90-J&#xE4;hrige, der nur &#xFC;ber das Fenster des Seniorenheims die Gl&#xFC;ckwunschblumen zu ihrem runden Geburtstag &#xFC;berreicht werden konnten. Da sind Unternehmer, die gesagt haben: Ich habe Auftr&#xE4;ge, ich k&#xF6;nnte produzieren; aber meine ganze Lieferkette ist eingebrochen. Ich kann nichts tun.&#xA0;&#x2013; Da sind Familien, die zwischen Windeln, Kochl&#xF6;ffeln und Homeschooling ans Ende ihrer Kr&#xE4;fte kamen. Betroffen davon waren ganz besonders Frauen, aber eben auch Eltern oder Gro&#xDF;eltern, die ihre Kinder nicht mehr sehen konnten. All das hat uns gepr&#xE4;gt.</p>
+				<p klasse="J">Wir haben aber gerade auch in den letzten Wochen anderes erlebt: Menschen, die ganz &#xFC;berw&#xE4;ltigt davon waren, was pl&#xF6;tzlich alles m&#xF6;glich war: mobiles Arbeiten, Homeoffice, Videokonferenzen &#xFC;ber die ganze Welt. Die Schulen wurden pl&#xF6;tzlich digital. Die Nachbarschaftshilfe ist wieder aufgebl&#xFC;ht. Man hat sich gegenseitig geholfen, unterst&#xFC;tzt; man war sensibel. Immer mehr sp&#xFC;rt man doch, dass die Menschen sagen: Die Krise ist doch eine Chance. Sie ist eine Chance, vieles anders zu machen, vieles besser zu machen. Lasst uns doch die Krise nutzen, um einen wirklichen Sprung nach vorne zu machen.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Liebe Kolleginnen und Kollegen, genau das machen wir mit den Paketen, die wir in diesen Tagen verabschieden, und mit dem, was der Koalitionsausschuss am 2.&#xA0;Juni 2020 beschlossen hat. Da wundere ich mich schon &#xFC;ber den Populismus von ganz links und ganz rechts: Man hat sich ja wirklich in einem Zusammenmischen von populistischen und teilweisen abstrusen Thesen &#xFC;berhaupt nicht mehr unterschieden.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD&#xA0;&#x2013; Kerstin Kassner [DIE LINKE]: Das sind Tatsachen, die wir gesagt haben! Was soll denn das?)</kommentar>
+				<p klasse="O">Auch die Gr&#xFC;nen und die FDP haben ja doch ziemlich M&#xFC;he, noch Kritikpunkte an diesem Paket zu finden.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Sie machen uns das immer so einfach! Wir h&#xE4;tten gern mehr Herausforderungen von Ihnen!)</kommentar>
+				<p klasse="O">Nat&#xFC;rlich, als Opposition muss man immer sagen: Es ist irgendwie viel zu wenig, und das m&#xFC;sste mehr oder dann doch noch mal ein bisschen anders sein.</p>
+				<p klasse="J">Ich kann f&#xFC;r meine Fraktion sagen: Wir haben vieles getan, um Unternehmen und Menschen in der Krise zu stabilisieren. Wir machen vieles jetzt, um aus der Krise herauszukommen. Was uns besonders wichtig ist: dass wir das Land auch langfristig besser machen, stabilisieren, fitmachen f&#xFC;r das n&#xE4;chste Jahrzehnt.</p>
+				<p klasse="J">Dabei setzen wir vor allem auf den Zusammenhalt in der Gesellschaft. Der Kern unserer Gesellschaft, das sind die Familien. Gerade f&#xFC;r die Familien haben wir in der Krise schon viel gemacht: mit der Lohnersatzleistung, mit dem Kinderzuschlag, mit der &#xC4;nderung beim Elterngeld, mit den vielen &#xC4;nderungen im Bereich der Pflege.</p>
+				<kommentar>(Alexander Dobrindt [CDU/CSU]: Mit dem h&#xF6;heren Freibetrag f&#xFC;r Alleinerziehende!)</kommentar>
+				<p klasse="J">Die Familien stehen auch jetzt wieder im Mittelpunkt. Wir haben den Freibetrag f&#xFC;r Alleinerziehende deutlich erh&#xF6;ht&#xA0;&#x2013; auf &#xFC;ber 4&#x202F;000&#xA0;Euro. Familien erhalten den Kinderbonus, erst 200&#xA0;Euro, dann 100&#xA0;Euro. Familien werden das merken in den n&#xE4;chsten Wochen. Wir sorgen daf&#xFC;r, dass die Alltagskosten nicht zu gro&#xDF; werden. Deshalb senken wir die EEG-Umlage, deshalb schauen wir, dass es bei den Sozialbeitr&#xE4;gen eine Grenze gibt, und deswegen senken wir auch die Mehrwertsteuer. Insofern kann ich sagen: Bei jeder Rechnung an der Kasse, die in den n&#xE4;chsten Wochen reduziert wird, sollen sich die Kunden mal klarmachen: Das h&#xE4;tte Die Linke nicht gewollt.</p>
+				<kommentar>(Alexander Dobrindt [CDU/CSU]: Ja, genau!)</kommentar>
+				<p klasse="O">Ich glaube, dass das, was die Familien an der Kasse sparen, ganz gut in den Familien ankommt und ganz gut aufgehoben ist und dass sie sehr wohl auch wissen, was mit dem Kinderbonus zu machen ist.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie der Abg. Sylvia Lehmann [SPD]&#xA0;&#x2013; Alexander Dobrindt [CDU/CSU]: Die Linken sind gegen die kleinen Leute!)</kommentar>
+				<p klasse="J">Aber viel wichtiger als das ist, dass wir unser Land langfristig st&#xE4;rken. Wir werden noch mal deutlich in die digitale Bildung investieren. Wir investieren Milliarden in Zukunftstechnologien: in k&#xFC;nstliche Intelligenz, in Quantencomputing, in die Wasserstofftechnologie. Wenn Sie das kritisieren, dann wei&#xDF; ich nicht, ob Sie die entsprechenden Teile des Konjunkturpaketes vielleicht nicht gelesen haben. So viele Milliarden, wie wir daf&#xFC;r bereitstellen, haben wir in den ganzen letzten Jahren nicht bereitgestellt. Das ist ein deutlicher Sprung nach vorn, und das bringt uns wirklich in die Zukunft.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Die FDP spricht in ihrem Antrag vom Neustart. Wir gehen noch einen Schritt weiter. Wir sagen: Wir wollen auch in unserem eigenen Bereich unsere Strukturen besser machen, schneller machen, flexibler machen, Stichwort &#x201E;Neustaat&#x201C;. Wir wollen besser werden, und auch hier haben wir am 2.&#xA0;Juni schon die ersten Beschl&#xFC;sse getroffen. Wir werden noch mal Milliarden zur Verf&#xFC;gung stellen, damit die Verwaltungsmodernisierung vorankommt, damit es einheitliche Ansprechpartner gibt. Das ist auch die gr&#xF6;&#xDF;te B&#xFC;rokratieentlastung f&#xFC;r Unternehmen, weil sie doch wahnsinnig dadurch werden, dass sie beim Start bei Beh&#xF6;rdeng&#xE4;ngen lange Prozesse zu bew&#xE4;ltigen haben. Das kann besser werden, das kann schneller werden, das kann unb&#xFC;rokratischer werden. Auch das ist Teil eines Konjunkturpakets.</p>
+				<p klasse="J">Deshalb, liebe Kolleginnen und Kollegen, lassen Sie uns die Krise nutzen, einen deutlichen Schritt nach vorne zu kommen, die Krise als Chance verstehen, damit die vielen Geschichten, die vielen Szenen, die wir vor Augen haben, wenn wir uns an die Krise erinnern, nicht als etwas Negatives zur&#xFC;ckbleiben, sondern wir sagen k&#xF6;nnen: Es war hart, aber wir haben es genutzt, und unser Land ist st&#xE4;rker geworden.</p>
+				<p klasse="J">Danke.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie des Abg. Carsten Schneider [Erfurt] [SPD])</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">N&#xE4;chster Redner ist der Kollege Dr.&#xA0;Florian Toncar, FDP.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+			</rede>
+			<rede id="ID1916801300">
+				<p klasse="redner">
+					<redner id="11003856">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Florian</vorname>
+							<nachname>Toncar</nachname>
+							<fraktion>FDP</fraktion>
+						</name>
+					</redner>Dr.&#xA0;Florian Toncar (FDP):</p>
+				<p klasse="J_1">Danke sch&#xF6;n.&#xA0;&#x2013; Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! Die Antwort, die wir auf diese Krise geben, ist entscheidend f&#xFC;r den Wohlstand und die Lebenschancen in Deutschland auf ein gutes Jahrzehnt und auch f&#xFC;r das &#xF6;konomische Gewicht Deutschlands und Europas in der Welt; denn hier werden die Karten neu gemischt, und die anderen schlafen nicht. Es ist ganz entscheidend f&#xFC;r die n&#xE4;chsten zehn Jahre, wie wir aus dieser Krise herauskommen.</p>
+				<p klasse="J">Sie reagieren darauf, indem Sie jetzt sozusagen die wirtschaftspolitische Schrotflinte auspacken und damit einmal &#x201E;Wumms!&#x201C; machen. Aber ein lauter Knall ist eben noch kein Treffer, liebe Kolleginnen und Kollegen von der Bundesregierung.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="O">Sie erm&#xF6;glichen ein bisschen Verlustr&#xFC;cktrag f&#xFC;r Unternehmen, aber eben begrenzt und nicht beherzt, und Sie senken zeitlich befristet die Mehrwertsteuer, um damit den Konsum anzukurbeln. &#xDC;brigens fand ich es ganz interessant, Frau Kollegin Arndt-Brauer, wie Sie von der SPD das mit dem Konsum hier begr&#xFC;ndet haben. Sie haben zu den B&#xFC;rgern dieses Landes gesagt: Verhalten Sie sich so, wie wir es uns w&#xFC;nschen.&#xA0;&#x2013; Liebe B&#xFC;rgerinnen und B&#xFC;rger, ich sage Ihnen: Die Freien Demokraten wollen nicht, dass Sie sich so verhalten m&#xFC;ssen, wie die Regierung es sich w&#xFC;nscht. Wir machen Politik daf&#xFC;r, dass Sie sich so verhalten k&#xF6;nnen, wie Sie es sich selber w&#xFC;nschen; denn Sie sind erwachsen, m&#xFC;ndig und k&#xF6;nnen das.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Deswegen geht es auch nicht darum, dass man mit der Mehrwertsteuersenkung jetzt ein Schn&#xE4;ppchenprogramm f&#xFC;r das Weihnachtsgesch&#xE4;ft auflegt und danach, im Januar, wieder die Flaute einkehrt und die Unternehmen nicht wissen, wie es weitergeht, sondern es muss doch darum gehen, dass wir jetzt dauerhaft selbsttragendes Wirtschaftswachstum erzeugen, das auch irgendwann wieder ohne staatlichen Impuls und ohne staatliche Unterst&#xFC;tzung auskommt.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<p klasse="J">Vor diesem Hintergrund m&#xFC;ssen wir eben die Strukturschw&#xE4;chen in Deutschland angehen, bei denen wir eigentlich schon lange wissen, dass sie ein Hemmnis, dass sie ein &#xC4;rgernis sind, wenn es darum geht, dass die B&#xFC;rger ihr Leben selbst gestalten und ihre Entscheidungen selbst treffen k&#xF6;nnen, und auch darum, dass wir uns &#xF6;konomisch gut entwickeln k&#xF6;nnen. Da ist der Mittelstandsbauch zu nennen. Das Einkommensteuerrecht bzw. der Einkommensteuertarif ist leistungsfeindlich; das war er auch vor Corona schon. Aber wenn wir in einer Krise, in der wir jetzt sind, die ja auch Verunsicherung und Zukunfts&#xE4;ngste schafft, die die Frage aufwirft: &#x201E;Wie geht es eigentlich f&#xFC;r mich finanziell weiter?&#x201C;, den Menschen wirklich etwas bieten wollen, wo sie sagen: &#x201E;Ich fasse wieder Zuversicht&#x201C;, und: &#x201E;Ich glaube wieder an die M&#xF6;glichkeiten&#x201C;, und: &#x201E;Ich gebe wieder Geld aus, weil ich Licht am Horizont sehe&#x201C;, dann reichen keine Schn&#xE4;ppchenprogramme f&#xFC;r Dezember, sondern dann braucht es eine dauerhafte Entlastung beispielsweise der mittleren Einkommen, damit die Menschen wirklich wieder Planungssicherheit bekommen und Mut und Zuversicht fassen.</p>
+				<kommentar>(Beifall bei der FDP sowie des Abg. Martin Hebner [AfD])</kommentar>
+				<p klasse="J">So k&#xF6;nnte man weitermachen. Kein Mensch glaubt ernsthaft, dass das deutsche Unternehmensteuerrecht, so wie es ist, wettbewerbsf&#xE4;hig ist. Ganz im Gegenteil: Das ist einer der Bereiche, wo wir mit am schlechtesten aufgestellt sind. Wenn Unternehmen jetzt, in der Krise, wieder investieren sollen, Arbeitspl&#xE4;tze sichern und neue schaffen sollen, auch in neuen Branchen mit neuen Ideen, dann kann man doch nicht ernsthaft das Unternehmensteuerrecht so lassen, wie es ist, sondern dann muss man da jetzt herangehen und die Schw&#xE4;chen beseitigen, weil das eben auch dazu beitr&#xE4;gt, dass Unternehmen auf Dauer Mut fassen, investieren und sagen: &#x201E;Deutschland ist ein guter Standort; hier bleiben wir&#x201C;, oder: &#x201E;Hier kommen wir rein&#x201C;.</p>
+				<kommentar>(Beifall bei der FDP sowie des Abg. Martin Hebner [AfD])</kommentar>
+				<p klasse="J">Dieser Weg, die Krise zu nutzen, um bekannte Schw&#xE4;chen abzustellen, und zwar auf Dauer, und uns auf Dauer st&#xE4;rker zu machen, wird die Antwort sein, die erst noch gegeben werden muss und f&#xFC;r die wir hier im Bundestag weiter streiten werden.</p>
+				<kommentar>(Beifall bei der FDP)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">N&#xE4;chste Rednerin ist Antje Tillmann, CDU/CSU.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+			</rede>
+			<rede id="ID1916801400">
+				<p klasse="redner">
+					<redner id="11003646">
+						<name>
+							<vorname>Antje</vorname>
+							<nachname>Tillmann</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Antje Tillmann (CDU/CSU):</p>
+				<p klasse="J_1">Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! Im sp&#xE4;teren Verlauf einer Debatte zu reden, ist h&#xE4;ufig schwierig, weil viele Themen schon angesprochen wurden.</p>
+				<kommentar>(Alexander Dobrindt [CDU/CSU]: Aber man kann das ganze Falsche der FDP richtigstellen!)</kommentar>
+				<p klasse="O">Das ist heute nicht das Problem. Die Oppositionsfraktionen von ganz links und ganz rechts haben darauf verzichtet, &#xFC;ber Steuerrecht zu sprechen. Die FDP hat zumindest &#xFC;ber Steuerrecht gesprochen; allerdings hat sie alles aufgeschrieben, was sie sich beim Steuerrecht vorstellen konnte, um ein Problem ganz elegant zu umschiffen, n&#xE4;mlich dass Sie im Finanzausschuss von den elf Ma&#xDF;nahmen neun begr&#xFC;&#xDF;t haben.</p>
+				<kommentar>(Alexander Dobrindt [CDU/CSU]: H&#xF6;rt! H&#xF6;rt!&#xA0;&#x2013; Christian D&#xFC;rr [FDP]: Welche waren das?)</kommentar>
+				<p klasse="O">Sie h&#xE4;tten in dieser Debatte zu neun Punkten im Steuerhilfegesetz sagen k&#xF6;nnen: Das ist ein erster guter Schritt, das ist eine gute Ma&#xDF;nahme,</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Also all die, die Sie selbst als nebens&#xE4;chlich bezeichnen, Frau Tillmann!)</kommentar>
+				<p klasse="O">das ist ein guter Anfang.&#xA0;&#x2013; Das haben Sie umgangen&#xA0;&#x2013; zugegebenerma&#xDF;en sehr elegant&#xA0;&#x2013;, indem Sie Ihre W&#xFC;nsche beim Steuerrecht aufgeschrieben haben. Das ist eine Erweiterung der Debatte, die wir im Nachhinein gerne vollziehen k&#xF6;nnen.</p>
+				<p klasse="J">Tats&#xE4;chlich geht es aber heute um das Zweite Corona-Steuerhilfegesetz. Da ist&#xA0;&#x2013; zugegebenerma&#xDF;en von allen&#xA0;&#x2013; die Mehrwertsteuersenkung problematisiert worden. Ich habe nicht ganz verstanden, wo die Probleme bei dieser Mehrwertsteuersenkung&#xA0;&#x2013; abgesehen vom Datum&#xA0;&#x2013; bestehen; denn auch der Reiche, der jetzt ein Auto kauft und damit vielleicht 3&#xA0;Prozent spart, sichert nat&#xFC;rlich den Arbeitsplatz des Flie&#xDF;bandarbeiters oder des Zulieferers. Die Firma, die diese Autos dann weiterverkauft, kann ihre Mitarbeiterinnen und Mitarbeiter aus der Kurzarbeit holen. Deshalb profitiert nat&#xFC;rlich auch der, der das Auto selbst nicht kaufen kann, weil er sicher sein kann, dass er seinen Arbeitsplatz nicht verliert und dass er nicht dauerhaft in Kurzarbeit ist.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Auch der Gastronomie, die schon angek&#xFC;ndigt hat, dass sie die Mehrwertsteuersenkung nicht weitergeben kann, wollen wir helfen. Wenn die Gastst&#xE4;tte vor Ort tats&#xE4;chlich fortbestehen kann, weil wir die Mehrwertsteuer senken, dann ist auch das ein guter Effekt der Mehrwertsteuersenkung.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Familien, die im Verh&#xE4;ltnis einen h&#xF6;heren Prozentsatz ihres Einkommens in den Konsum stecken, profitieren &#xFC;berdurchschnittlich, entweder durch den Erhalt des Arbeitsplatzes oder dadurch, dass sie tats&#xE4;chlich Geld in der Tasche behalten, das sie in notwendige Ma&#xDF;nahmen wieder investieren k&#xF6;nnen. Wer am Wochenende in den St&#xE4;dten unterwegs war, hat gesehen: Die allermeisten Gesch&#xE4;fte geben die Mehrwertsteuersenkung weiter. Wir werden davon profitieren.</p>
+				<p klasse="J">Aber nun sage ich als Steuerberaterin: Ja, der 1.&#xA0;Juli ist eine Herausforderung. Wir haben die letzten 14&#xA0;Tage sehr intensiv daran gearbeitet, diese Umstellung f&#xFC;r die Unternehmerinnen und Unternehmer ertr&#xE4;glich zu machen. W&#xE4;hrend andere lamentiert haben, was alles nicht geht, haben wir uns mit dem Team des Finanzministeriums auf den Weg gemacht und haben Anwendungsbeispiele in einem BMF-Schreiben zusammengef&#xFC;hrt. Wir haben sogar eine Billigkeitsregelung gefunden, die zumindest den Juli f&#xFC;r Fehler unanf&#xE4;lliger macht. Alles das, was im Monat Juli versehentlich falsch l&#xE4;uft zwischen Unternehmen, kann repariert werden,</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Und im August? Und im September? Und im Oktober? Und im November? Und im Dezember?)</kommentar>
+				<p klasse="O">ohne dass es Schaden f&#xFC;r die Unternehmen gibt. Ich danke auch recht herzlich der Koalition und dem BMF, dass uns das gelungen ist.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="O">Die Unternehmen haben eine gewisse Sicherheit, dass sich nicht jeder Fehler in einer Rechnung tats&#xE4;chlich bei ihnen auswirkt.</p>
+				<p klasse="J">Der gr&#xF6;&#xDF;te Posten, fast 20&#xA0;Milliarden Euro, geht in diese Mehrwertsteuersenkung. Ich danke auch den Unternehmerinnen und Unternehmern, den Buchhaltern, den Steuerberatern, aber auch den Verk&#xE4;ufern, die sich aufgemacht haben, den 1.&#xA0;Juli zum Erfolg werden zu lassen, obwohl sie vielleicht gedacht haben: Das h&#xE4;ttet ihr uns eigentlich nicht antun m&#xFC;ssen.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Das denken die immer noch!)</kommentar>
+				<p klasse="O">Danke an die, die die &#xC4;rmel hochkrempeln und L&#xF6;sungen suchen, im Gegensatz zu denen, die immer nur auf die Probleme hinweisen.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD&#xA0;&#x2013; Christian D&#xFC;rr [FDP]: Die Vorschl&#xE4;ge machen!)</kommentar>
+				<p klasse="J">Der zweitgr&#xF6;&#xDF;te Posten in diesem Paket geht an die Familien. Neben dem Familienentlastungsgesetz aus 2019 mit einer Entlastung von 10&#xA0;Milliarden Euro entlasten wir Familien in diesem Jahr um weitere 5&#xA0;Milliarden Euro und setzen das fort, indem wir n&#xE4;mlich 2021 das Kindergeld erneut um 15&#xA0;Euro anheben&#xA0;&#x2013; eine Riesensumme, die Familien in die Lage versetzt, jetzt zu investieren, zu konsumieren oder&#xA0;&#x2013; im schlimmsten Fall&#xA0;&#x2013; das Kurzarbeitergeld aufzufangen.</p>
+				<kommentar>(Abg. Dr.&#xA0;Diether Dehm [DIE LINKE] meldet sich zu einer Zwischenfrage)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Frau Kollegin Tillmann&#xA0;&#x2013;&#xA0;&#x2013;</p>
+				<p klasse="redner">
+					<redner id="11003646">
+						<name>
+							<vorname>Antje</vorname>
+							<nachname>Tillmann</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Antje Tillmann (CDU/CSU):</p>
+				<p klasse="J_1">Ich w&#xFC;rde gerne zu Ende reden.</p>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Sie lassen keine Zwischenfrage zu?</p>
+				<p klasse="redner">
+					<redner id="11003646">
+						<name>
+							<vorname>Antje</vorname>
+							<nachname>Tillmann</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Antje Tillmann (CDU/CSU):</p>
+				<p klasse="J_1">Ja.&#xA0;&#x2013; Unternehmerinnen und Unternehmer haben diese Krise zum Teil sehr schwer durchgestanden. Deshalb werden wir den Verlustr&#xFC;cktrag erh&#xF6;hen. Wir werden den Verlustr&#xFC;cktrag in H&#xF6;he von 5&#xA0;bzw. 10&#xA0;Millionen Euro m&#xF6;glich machen, damit Liquidit&#xE4;t in die Unternehmen kommt, und wir werden die degressive Abschreibung einf&#xFC;hren, und zwar f&#xFC;r alle Wirtschaftsg&#xFC;ter, um Abgrenzungsprobleme im Hinblick auf digitale und Umweltwirtschaftsg&#xFC;ter zu verhindern. Alle beweglichen Wirtschaftsg&#xFC;ter k&#xF6;nnen mit degressiver Abschreibung beg&#xFC;nstigt abgeschrieben werden. Wir werden bei der Gewerbesteuer die Hinzurechnung von Miet-, Pacht- und Schuldzinsen um 100&#x202F;000&#xA0;Euro verdoppeln, damit wir keine Substanzbesteuerung in dieser Krise haben. Und wir wollen aus dieser Krise moderner herauskommen, als wir hineingegangen sind: Wir werden zus&#xE4;tzlich einen gro&#xDF;en Betrag auf die Forschungszulage drauflegen. Mit bis zu 1&#xA0;Million Euro k&#xF6;nnen Unternehmen, die forschen, davon profitieren.</p>
+				<p klasse="J">Abschlie&#xDF;end haben wir die Kommunen im Blick. Sehr viele Investitionen werden in den Kommunen get&#xE4;tigt, etwa in die Schul- und Kindergartensanierung. Wir wollen, dass die Kommunen trotz Krise und trotz wegbrechender Gewerbesteuereinnahmen weiter in Schulen und Infrastruktur investieren k&#xF6;nnen. Schon mit diesem Gesetz werden wir sie um fast 1&#xA0;Milliarde Euro entlasten. Ein zweiter Schritt wird in den n&#xE4;chsten Wochen folgen: Bund und L&#xE4;nder werden den kompletten Gewerbesteuerausfall erstatten.</p>
+				<p klasse="J">Ich glaube, das sind gute Schritte aus der Krise heraus. Versuchen wir, was m&#xF6;glich ist, und versuchen wir nicht, etwas zu verhindern. Diese Krise kann auch wirtschaftlich &#xFC;berstanden werden. Dazu bitte ich Sie, mitzumachen.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Dann erteile ich zu einer Zwischenbemerkung das Wort dem Kollegen Dr.&#xA0;Diether Dehm, Die Linke.</p>
+			</rede>
+			<rede id="ID1916801500">
+				<p klasse="redner">
+					<redner id="11000365">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Diether</vorname>
+							<nachname>Dehm</nachname>
+							<fraktion>DIE LINKE</fraktion>
+						</name>
+					</redner>Dr.&#xA0;Diether Dehm (DIE LINKE):</p>
+				<p klasse="J_1">Vielen Dank, Herr Pr&#xE4;sident.&#xA0;&#x2013; Einem Punkt kann ich zustimmen: Ob die Mehrwertsteuersenkung beim Gastwirt h&#xE4;ngen bleibt oder das Bier 7&#xA0;Cent billiger wird, ist hier nicht die gro&#xDF;e Frage. Aber die Kollegin Wagenknecht hat hier Amazon genannt. Sie haben sich hingestellt und gesagt, Sie h&#xE4;tten das gar nicht verstanden. Dann will ich es Ihnen noch einmal sagen: Der Mitnahmeeffekt bei Amazon, die hier keine Steuern zahlen, ist ein Schlag ins Gesicht f&#xFC;r die kleinen und mittleren Unternehmer und f&#xFC;r die Arbeitnehmer,</p>
+				<kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten der AfD und der Abg. Claudia Roth [Augsburg] [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN])</kommentar>
+				<p klasse="O">die bei Amazon jetzt im Streik stehen f&#xFC;r bessere L&#xF6;hne, f&#xFC;r soziale Mindestbedingungen bei den gro&#xDF;en Krisengewinnlern.&#xA0;&#x2013; Das ist der Kern, den Sie, wie Sie gesagt haben, hier nicht verstehen k&#xF6;nnen. Dann muss man es Ihnen noch einmal sagen.</p>
+				<p klasse="J">Ergreifen Sie Ma&#xDF;nahmen, dass von der Mehrwertsteuer wenigstens ein Effekt bei denen h&#xE4;ngen bleibt, f&#xFC;r die Sie es hier vorgegeben haben zu machen, und sorgen Sie daf&#xFC;r, dass die Amazons endlich hier Steuern zahlen und sich am Aufbau und an der Sicherung der Daseinsvorsorge beteiligen!</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Frau Kollegin Tillmann.</p>
+			</rede>
+			<rede id="ID1916801600">
+				<p klasse="redner">
+					<redner id="11003646">
+						<name>
+							<vorname>Antje</vorname>
+							<nachname>Tillmann</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Antje Tillmann (CDU/CSU):</p>
+				<p klasse="J_1">Nach dem ersten Satz, dass Sie mir zustimmen k&#xF6;nnen, h&#xE4;tten Sie vielleicht aufh&#xF6;ren k&#xF6;nnen; dann h&#xE4;tte ich Ihnen auch zugestimmt.&#xA0;&#x2013; Ich habe sehr wohl geh&#xF6;rt, was die Kollegin Wagenknecht gesagt hat. Sie hat davon gesprochen, dass Reiche sich Autos kaufen, und darauf habe ich reagiert.</p>
+				<p klasse="J">Aber ich will gerne auf Ihre Bemerkung zu Amazon reagieren. Wir haben im letzten Jahr Amazon und auch alle anderen digitalen Plattformen sehr wohl zur Besteuerung herangezogen, n&#xE4;mlich indem wir die Haftung auf Plattformen eingef&#xFC;hrt haben. Erstmalig m&#xFC;ssen diejenigen, die Plattformen zur Verf&#xFC;gung stellen, f&#xFC;r die Mehrwertsteuer haften. Das hat direkt dazu gef&#xFC;hrt, dass Zehntausende von H&#xE4;ndlern &#xFC;ber diese Plattform nicht mehr handeln, weil sie die Mehrwertsteuer bis dahin nicht abgef&#xFC;hrt haben.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="J">Und ja, das Thema Amazon ist unabh&#xE4;ngig von Corona ein Thema. Wir sind auf OECD-Ebene sehr weit gekommen beim Thema Digitalbesteuerung. Leider sind die Vereinigten Staaten von Amerika jetzt aus den Verhandlungen ausgetreten&#xA0;&#x2013; das ist in der letzten Woche passiert&#xA0;&#x2013;, ganz neue Nachricht; leider, wir bedauern das sehr. Dennoch werden wir nat&#xFC;rlich auf europ&#xE4;ischer Ebene &#xFC;ber die Digitalsteuer neu sprechen und dar&#xFC;ber nachdenken m&#xFC;ssen, ob wir es nicht hinbekommen, wenigstens in Europa eine gemeinsame L&#xF6;sung zu finden. Keine Sorge: Auch dieses Problem werden wir angehen, sobald wir mit diesem Steuerhilfegesetz fertig sind.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Der n&#xE4;chste Redner ist der Kollege Bernhard Daldrup, SPD.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+			</rede>
+			<rede id="ID1916801700">
+				<p klasse="redner">
+					<redner id="11004258">
+						<name>
+							<vorname>Bernhard</vorname>
+							<nachname>Daldrup</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Bernhard Daldrup (SPD):</p>
+				<p klasse="J_1">Herr Pr&#xE4;sident! Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Zun&#xE4;chst: Ich komme aus dem Kreis Warendorf. Der letzte Test bei mir ist von gestern, 10&#xA0;Uhr: negativ. Ich k&#xF6;nnte heute also sogar in Bayern einreisen, vielleicht gemeinsam mit Herrn Brinkhaus.</p>
+				<kommentar>(Claudia Roth [Augsburg] [B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN]: Schauen wir mal!)</kommentar>
+				<p klasse="J">Aber ich will an dieser Stelle auch eines sagen&#xA0;&#x2013; Kollegin Arndt-Brauer hat dazu schon einiges gesagt&#xA0;&#x2013;: Die Art und Weise, wie mit den Betroffenen hier umgegangen wird, ist ein bisschen wohlfeile Kritik. Ich will deutlich sagen: Im Kreis Warendorf und auch sonst hat sich Politik niemals mit den Bedingungen bei T&#xF6;nnies einfach so abgefunden. Das ist nicht der Fall,</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+				<p klasse="O">und es ein bisschen wohlfeil, das jetzt zu behaupten. 2016 ist unter Andrea Nahles sehr deutlich damit begonnen worden, und ich hoffe, dass all diejenigen, die es damals nicht wollten, jetzt aber dabei sind, wenn Hubertus Heil seine Initiativen dazu einbringt.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+				<p klasse="J">Wegen der Fundamentalkritik, die hier zu einem Teil jedenfalls ge&#xE4;u&#xDF;ert worden ist, will ich als Sozialdemokrat und Mitglied der Gro&#xDF;en Koalition&#xA0;&#x2013; es ist auch nicht immer so einfach&#xA0;&#x2013; Ihnen gerne einmal etwas schildern, was man nicht jeden Tag erf&#xE4;hrt. Eine ganze Reihe von B&#xFC;rgerinnen und B&#xFC;rgern kommt jetzt zu mir und sagt: Es ist gut, dass ihr Sozis in dieser Regierung seid. Es ist gut, dass ihr f&#xFC;r soziale Ausgewogenheit bei den unterschiedlichen Geschichten sorgt.&#xA0;&#x2013; Wenn es darauf ankommt, wissen die Menschen n&#xE4;mlich, dass sie auf uns z&#xE4;hlen k&#xF6;nnen, dass sie uns vertrauen k&#xF6;nnen. Das hat ein bisschen mit Glaubw&#xFC;rdigkeit in der Politik zu tun.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+				<p klasse="J">Von der befristeten Senkung der Umsatzsteuer &#xFC;ber den Kinderbonus, die Entlastung von Alleinerziehenden bis zu diversen steuerlichen Ma&#xDF;nahmen, die schon angesprochen worden sind, hat dieses Paket bei diesem Gesetzgebungsverfahren, &#xFC;ber das wir konkret reden, ein Volumen von ungef&#xE4;hr 28,5&#xA0;Milliarden Euro allein in diesem Jahr. Es ist Teil eines Paketes von 130&#xA0;Milliarden Euro, das wir in dieser Gr&#xF6;&#xDF;enordnung bisher nicht hatten.</p>
+				<p klasse="J">Unsere Antwort auf die Krise lautet eben nicht: &#x201E;G&#xFC;rtel enger schnallen&#x201C;, sondern wir erh&#xF6;hen die Kaufkraft der B&#xFC;rgerinnen und B&#xFC;rger, wir verschaffen Unternehmen ben&#xF6;tigte Liquidit&#xE4;t, wir geben Anreize f&#xFC;r Investitionen, wir geben der wirtschaftlichen Erholung den notwendigen Schub, und zwar jetzt, weil es jetzt n&#xF6;tig und dringend erforderlich ist. Genau so ist es, und es ist auch wirtschaftspolitisch richtig.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+				<p klasse="J">Die kurzfristige Senkung der Mehrwertsteuer bringt 20&#xA0;Milliarden Euro in den Wirtschaftskreislauf und wird ihre Wirkung entfalten, jedenfalls eine ganz andere und sehr viel bessere als die kurzfristige Abschaffung des Solis; das wissen, glaube ich, alle. Die Einkommensgruppen, die von der Abschaffung des Solis profitieren w&#xFC;rden, brauchen diese Entlastung zum gegenw&#xE4;rtigen Zeitpunkt nicht.</p>
+				<kommentar>(Beifall bei Abgeordneten der SPD&#xA0;&#x2013; Christian D&#xFC;rr [FDP]: Jeder, der Einkommensteuer zahlt, zahlt das!)</kommentar>
+				<p klasse="J">Wir wissen auch: Untere und mittlere Einkommen profitieren prozentual am meisten von der Senkung der Mehrwertsteuer. Einfach nur die Steuersenkung f&#xFC;r die T&#xFC;te Milch&#xA0;&#x2013; wie heute Morgen im Fernsehen geschehen&#xA0;&#x2013; aufzuz&#xE4;hlen, ist das, was man eine Milchm&#xE4;dchenrechnung nennt; die passt n&#xE4;mlich nicht.</p>
+				<kommentar>(Beifall bei der SPD und der CDU/CSU)</kommentar>
+				<p klasse="J">Ich nehme jedenfalls zur Kenntnis, dass Die Linke offensichtlich nicht einverstanden ist mit einer Mehrwertsteuersenkung, und das ist schon ein&#xA0;&#x2013; jedenfalls f&#xFC;r mich&#xA0;&#x2013; bemerkenswerter Vorgang.</p>
+				<kommentar>(Matthias W. Birkwald [DIE LINKE]: Wenn Sie es auf Dauer machen!&#xA0;&#x2013; Amira Mohamed Ali [DIE LINKE]: Dauerhaft!&#xA0;&#x2013; Weitere Zurufe von der LINKEN)</kommentar>
+				<p klasse="O">&#x2013; Erwischt, Leute! Ich merk&#x2019;s! Erwischt! Genau so ist es.</p>
+				<kommentar>(Beifall bei der SPD und der CDU/CSU)</kommentar>
+				<p klasse="J">Wir reagieren mit vielen Ma&#xDF;nahmen f&#xFC;r Familien in der Coronakrise, angefangen vom Elterngeld &#xFC;ber den Kinderzuschlag bis zur Entsch&#xE4;digung f&#xFC;r Verdienstausfall, um nur einige zu nennen. Der Kinderbonus ist ein zus&#xE4;tzliches Element, nicht das einzige. Der Kinderbonus d&#xFC;rfte f&#xFC;r rund 18,3&#xA0;Millionen Kinder ausgezahlt werden. Aber: Von den 11,2&#xA0;Millionen Steuerpflichtigen mit Kindern werden nur rund 2&#xA0;Millionen diesen Kinderbonus nicht in Anspruch nehmen k&#xF6;nnen, weil sie den Kinderfreibetrag weiterhin in Anspruch nehmen werden. Der Kinderbonus ist mithin eine Hilfe f&#xFC;r Familien mit Kindern, die diese Hilfe auch tats&#xE4;chlich brauchen; und das ist gut so.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU&#xA0;&#x2013; Christian D&#xFC;rr [FDP]: Aber Ihre Kollegin hat das Gegenteil gesagt!)</kommentar>
+				<p klasse="J">Dar&#xFC;ber hinaus f&#xF6;rdern wir berufst&#xE4;tige Alleinerziehende. Eine alleinerziehende Kassiererin mit 1&#x202F;750&#xA0;Euro brutto und einem Kind erh&#xE4;lt dadurch 463&#xA0;Euro mehr im Jahr, und der Kinderbonus kommt obendrauf. Das sind konkrete Hilfen.</p>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Herr Kollege Daldrup, der Kollege De Masi w&#xFC;rde gerne eine Zwischenfrage stellen.</p>
+				<p klasse="redner">
+					<redner id="11004258">
+						<name>
+							<vorname>Bernhard</vorname>
+							<nachname>Daldrup</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Bernhard Daldrup (SPD):</p>
+				<p klasse="J_1">Ich mache es auch durchgehend zu Ende. Danke, keine Zwischenfragen.</p>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Keine Zwischenfrage.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Ich h&#xE4;tte die gerne geh&#xF6;rt!)</kommentar>
+				<p klasse="redner">
+					<redner id="11004258">
+						<name>
+							<vorname>Bernhard</vorname>
+							<nachname>Daldrup</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Bernhard Daldrup (SPD):</p>
+				<p klasse="J_1">Ich will zum Schluss, weil das ein paarmal gesagt worden ist, noch auf die Kommunen eingehen: Die beste Ma&#xDF;nahme zur Konjunkturbelebung besteht in der St&#xE4;rkung der Kommunen. Deswegen werden wir die Mindereinnahmen der Kommunen&#xA0;&#x2013; sowohl beim Kinderzuschlag als auch bei der Mehrwertsteuer&#xA0;&#x2013; nicht den Kommunen anlasten. Die 911&#xA0;Millionen Euro werden in diesem Jahr vollst&#xE4;ndig vom Bund &#xFC;bernommen. Das ist, glaube ich, eine vern&#xFC;nftige L&#xF6;sung.</p>
+				<kommentar>(Beifall bei der SPD und der CDU/CSU)</kommentar>
+				<p klasse="J">Neben der Tatsache, dass wir Ausf&#xE4;lle bei der Gewerbesteuer in H&#xF6;he von rund 12&#xA0;Milliarden Euro je zur H&#xE4;lfte durch Bund und L&#xE4;nder erstatten wollen, wollen wir gleichzeitig auch das Grundgesetz &#xE4;ndern, um sowohl dieses Geld zielgerichtet bei den Kommunen ankommen zu lassen als auch die Hilfen bei den Entlastungen von den Sozialausgaben wirksam werden zu lassen.</p>
+				<p klasse="J">Das ist eine Debatte, die wir nicht heute f&#xFC;hren k&#xF6;nnen, sondern die wir am kommenden Donnerstag f&#xFC;hren werden. Ich hoffe, dass all diejenigen, die immer sagen: &#x201E;Es muss konkret bei den Menschen ankommen&#x201C;, bei den erforderlichen Grundgesetz&#xE4;nderungen auch dabei sind.</p>
+				<p klasse="J">Herzlichen Dank.</p>
+				<kommentar>(Beifall bei der SPD und der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Liebe Kolleginnen und Kollegen, da wir f&#xFC;r dieses Gesetz relativ wenig Beratungszeit hatten, bin ich bei der Zulassung von Zwischenbemerkungen, auch wenn es ein Montagvormittag ist, gro&#xDF;z&#xFC;gig und erteile das Wort zu einer Zwischenbemerkung dem Kollegen Fabio De Masi, Die Linke.</p>
+			</rede>
+			<rede id="ID1916801800">
+				<p klasse="redner">
+					<redner id="11004817">
+						<name>
+							<vorname>Fabio</vorname>
+							<nachname>De Masi</nachname>
+							<fraktion>DIE LINKE</fraktion>
+						</name>
+					</redner>Fabio De Masi (DIE LINKE):</p>
+				<p klasse="J_1">Vielen Dank Herr Pr&#xE4;sident, dass Sie das zulassen.&#xA0;&#x2013; Kollege Daldrup, ich will einfach nur darauf hinweisen, wie es wirklich war: 2007 hat die SPD im Wahlkampf 0&#xA0;Prozent Erh&#xF6;hung der Mehrwertsteuer versprochen und die Union 2&#xA0;Prozent; heraus kamen 3&#xA0;Prozent. Wir haben heftig dagegen gek&#xE4;mpft.</p>
+				<kommentar>(Beifall bei Abgeordneten der LINKEN)</kommentar>
+				<p klasse="O">Wir haben jetzt, bei dieser Gelegenheit, gesagt, dass wir bezweifeln, ob eine Senkung der Mehrwertsteuer im selben Umfang in die Preise weitergegeben wird wie die Erh&#xF6;hung, die dann ja gegen Ende des Jahres stattfindet. Deswegen haben wir gesagt: Wenn man das schon macht&#xA0;&#x2013; das k&#xF6;nnen Sie in unserem Antrag nachlesen&#xA0;&#x2013;, dann muss man es entweder dauerhaft tun, oder aber man muss gezielt die Nachfrage st&#xFC;tzen, damit nicht die Amazons und Co diese Mehrwertsteuersenkung einsacken, aber die Erh&#xF6;hung dann in die Preise weitergeben.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<p klasse="J">Insofern, finde ich, ist es etwas unredlich, unsere Position hier so darzustellen. Ich will nur darauf hinweisen, dass auch der Sachverst&#xE4;ndige Professor Dullien vom gewerkschaftsnahen Institut f&#xFC;r Makro&#xF6;konomie und Konjunkturforschung genau diese Position der Linken in der Anh&#xF6;rung im Finanzausschuss vertreten hat und gesagt hat, es h&#xE4;tte wesentlich zielgenauere Ma&#xDF;nahmen gegeben,</p>
+				<kommentar>(Fritz G&#xFC;ntzler [CDU/CSU]: Das war der Einzige!&#xA0;&#x2013; Michael Grosse-Br&#xF6;mer [CDU/CSU]: Was haben die anderen Experten denn gesagt?)</kommentar>
+				<p klasse="O">um die Nachfrage zu st&#xFC;tzen, zum Beispiel eine Verl&#xE4;ngerung des Kinderbonus&#xA0;&#x2013; da w&#xE4;ren wir doch sofort dabei gewesen&#xA0;&#x2013; oder mehr Hilfen f&#xFC;r Selbstst&#xE4;ndige auch zum Lebensunterhalt. Das sollten wir fairerweise in der Debatte auch erw&#xE4;hnen, statt sich hierhinzustellen und zu sagen, dass ausgerechnet Die Linke, die gegen diese Erh&#xF6;hung damals gek&#xE4;mpft hat, das hier ablehnen w&#xFC;rde. Das ist wirklich gro&#xDF;er Quatsch.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Herr Kollege Daldrup, wenn Sie m&#xF6;gen, haben Sie das Wort.</p>
+			</rede>
+			<rede id="ID1916801900">
+				<p klasse="redner">
+					<redner id="11004258">
+						<name>
+							<vorname>Bernhard</vorname>
+							<nachname>Daldrup</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Bernhard Daldrup (SPD):</p>
+				<p klasse="J_1">Ich mache es ganz kurz.&#xA0;&#x2013; Lieber Kollege De Masi, es ist kein gro&#xDF;er Quatsch, sondern das ist Ihre Haltung.</p>
+				<kommentar>(Dr.&#xA0;Petra Sitte [DIE LINKE]: Er hat es doch erkl&#xE4;rt!)</kommentar>
+				<p klasse="O">Das kann ich ja nicht &#xE4;ndern&#xA0;&#x2013; Nummer eins.</p>
+				<kommentar>(Zurufe von der LINKEN)</kommentar>
+				<p klasse="J">&#x2013; Wird ja so vorgetragen.</p>
+				<p klasse="J">Nummer zwei.</p>
+				<kommentar>(Zuruf von der LINKEN: Wer hat die 3-Prozent-Erh&#xF6;hung gemacht?)</kommentar>
+				<p klasse="O">Ja, wer hat die 3-Prozent-Erh&#xF6;hung gemacht? Jetzt will ich euch etwas sagen, Leute. Ihr beklagt euch permanent und, wie ich finde, h&#xE4;ufig zu Recht dar&#xFC;ber, an Vergangenheit erinnert zu werden. Ich kenne die SPD, fast h&#xE4;tte ich gesagt, seit 1863.</p>
+				<kommentar>(Heiterkeit bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="O">Wir k&#xF6;nnen gerne einmal schauen, ob ihr noch jede Entscheidung, die ihr in der Vergangenheit getroffen habt, f&#xFC;r richtig haltet. Das kann ja sein. Bei dieser Frage holt ihr immer diesen alten Hut hervor.</p>
+				<p klasse="J">Jetzt ist die doch Kernfrage: Machen wir das Richtige, was jetzt hilft? Da darf man nicht auf eine einzelne Mehrwertsteuerma&#xDF;nahme schauen, sondern muss ein Paket von 130&#xA0;Milliarden Euro in der Gesamtwirkung betrachten. Und es muss jetzt wirken. Deswegen ist es so gemacht worden, und deswegen ist es auch richtig so.</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU)</kommentar>
+				<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+				<p klasse="J_1">Damit erteile ich das Wort als voraussichtlich letztem Redner in dieser Debatte dem Kollegen Fritz G&#xFC;ntzler, CDU/CSU.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+			</rede>
+			<rede id="ID1916802000">
+				<p klasse="redner">
+					<redner id="11004285">
+						<name>
+							<vorname>Fritz</vorname>
+							<nachname>G&#xFC;ntzler</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Fritz G&#xFC;ntzler (CDU/CSU):</p>
+				<p klasse="J_1">Sehr geehrter Herr Pr&#xE4;sident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Es ist eine Ehre, in der Debatte &#xFC;ber ein so wichtiges Steuergesetz zuletzt zu sprechen. Diesen Hinweis muss ich mir aber erlauben, Herr Kollege Glaser: Wir sprechen hier &#xFC;ber ein Steuerpaket, das wir heute beschlie&#xDF;en wollen, mit einer Entlastungswirkung von immerhin &#xFC;ber 50&#xA0;Milliarden Euro f&#xFC;r die Menschen in unserem Land. Ich finde, damit setzen wir ein stolzes Signal.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie des Abg. Carsten Schneider [Erfurt] [SPD])</kommentar>
+				<p klasse="J">Das Paket, das der Koalitionsausschuss am 3.&#xA0;Juni beschlossen hat und das 57&#xA0;Punkte enth&#xE4;lt, hat drei Kernbotschaften: die Coronafolgen bek&#xE4;mpfen, den Wohlstand sichern und die Zukunftsf&#xE4;higkeit unseres Landes st&#xE4;rken. Daf&#xFC;r setzen wir mit diesen 50&#xA0;Milliarden Euro den richtigen Impuls. Das ist Geld, das den B&#xFC;rgerinnen und B&#xFC;rgern, den Unternehmern und Unternehmen zugutekommen wird. Ich will hier auch keinen Widerspruch zwischen B&#xFC;rgerinnen und B&#xFC;rgern und Unternehmen gelten lassen; denn die Unternehmen und die Unternehmer schaffen Arbeitspl&#xE4;tze f&#xFC;r viele B&#xFC;rgerinnen und B&#xFC;rger in unserem Land, und es ist auch gut so, meine Damen und Herren, dass dies so ist.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Ein Kernst&#xFC;ck unseres Paketes ist die heute schon oft angesprochene Mehrwertsteuersenkung von 19 auf 16&#xA0;Prozent bzw. von 7 auf 5&#xA0;Prozent im erm&#xE4;&#xDF;igten Steuersatz f&#xFC;r ein halbes Jahr. Wir haben damit &#xFC;brigens den niedrigsten Mehrwertsteuerregelsatz in der ganzen Europ&#xE4;ischen Union. Ich finde, auch das ist ein klares Signal. Das ist mit die gr&#xF6;&#xDF;te Steuersenkung der Nachkriegszeit, die wir jetzt durchf&#xFC;hren.</p>
+				<p klasse="J">Nun wird viel debattiert dar&#xFC;ber, welche Wirkung diese Mehrwertsteuersenkung erzielen wird. Ich bin froh, dass es trotz der Schnelligkeit bei der Beratung, die der Herr Pr&#xE4;sident eben schon angesprochen hat, ein geordnetes Verfahren gab. Wir haben eine Sachverst&#xE4;ndigenanh&#xF6;rung gehabt. Kollege De Masi hat gerade einen Sachverst&#xE4;ndigen zitiert. Mir fielen viele andere ein, die genau das Gegenteil gesagt haben. Ich habe das Gef&#xFC;hl, dass jedenfalls manche, die hier heute gesprochen haben, bei dieser Anh&#xF6;rung nicht zugeh&#xF6;rt haben; denn die &#xFC;berwiegende Mehrheit&#xA0;&#x2013; ich w&#xFC;rde sagen, zu 99&#xA0;Prozent&#xA0;&#x2013; der Sachverst&#xE4;ndigen&#xA0;&#x2013; und das waren nicht nur die Sachverst&#xE4;ndigen, die sich die Union &#x201E;ausgesucht&#x201C; hat&#xA0;&#x2013; war der Auffassung, dass wir mit dieser Mehrwertsteuersenkung den richtigen Impuls setzen. Wir haben uns danach best&#xE4;rkt gef&#xFC;hlt, dieses Gesetzgebungsverfahren so weiter voranzubringen.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Es ist &#xFC;ber die Evidenz von Untersuchungen gesprochen worden. Es gab kaum Mehrwertsteuersenkungen. Es gab einmal eine in Gro&#xDF;britannien in der Zeit der Finanz- und Wirtschaftskrise. Dort haben die Wissenschaftler, die Volkswirte nachweisen k&#xF6;nnen, dass anf&#xE4;nglich fast alles an die Verbraucherinnen und Verbraucher weitergegeben wurde und es dann ein wenig abgenommen hat. Also: Dort gab es den Erfolg.</p>
+				<p klasse="J">Nat&#xFC;rlich, lieber Herr Kollege Bayaz: Wir treffen immer Entscheidungen unter Unsicherheit; es gibt nicht die sichere Entscheidung. Wir haben aber in der Abw&#xE4;gung festgestellt, dass es eine gute Entscheidung ist, die viele Chancen birgt. Und diese Chancen wollen wir nutzen. Wir hoffen, dass sich die Unternehmerinnen und Unternehmer bewusst sind, dass ein Gro&#xDF;teil dort ankommen soll, wo wir es auch sehen wollen. Aber selbst wenn es bei den Unternehmern und Unternehmerinnen landen sollte, bleibt es im Wirtschaftskreislauf; die Volkswirte nennen das &#x201E;Multiplikatoreffekt&#x201C;. Also: Wir haben dadurch auch neue Effekte.</p>
+				<p klasse="J">Nat&#xFC;rlich gibt es diese Amazons. Da m&#xFC;ssen wir, lieber Kollege Dehm, auch noch mehr machen. Wir sind ja dabei, im europ&#xE4;ischen Kontext&#xA0;&#x2013; Frau Kollegin Tillmann hat das angesprochen&#xA0;&#x2013; einiges zu tun. Wenn es &#xFC;berhaupt so sein sollte, dass es Mitnahmeeffekte bei Amazon gibt, kommt das ja nicht nur dort an. Es gibt viele Unternehmen gerade auch im Mittelstand, die das nutzen k&#xF6;nnen, um ihre Liquidit&#xE4;t oder ihre Eigenkapitalbasis zu st&#xE4;rken. Von daher ist das auch eine gute L&#xF6;sung, meine Damen und Herren.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="J">In der Anh&#xF6;rung haben das &#xFC;brigens auch, lieber Herr Kollege D&#xFC;rr, die Vertreter von acht Spitzenverb&#xE4;nden der deutschen Wirtschaft begr&#xFC;&#xDF;t und sogar gesagt: Das kann einen wichtigen Impuls f&#xFC;r den Binnenkonsum darstellen.&#xA0;&#x2013; Ich glaube, Sie waren gar nicht da, Herr D&#xFC;rr. Dann lassen Sie es sich bitte von Ihren Kollegen berichten.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Ich h&#xF6;rte ja trotzdem zu! Das geht heute sogar digital!)</kommentar>
+				<p klasse="O">Das liegt &#xFC;brigens auch schriftlich vor; das k&#xF6;nnte ich Ihnen auch zustellen.&#xA0;&#x2013; Von daher steht auch die Wirtschaft hinter dieser Mehrwertsteuersenkung.</p>
+				<p klasse="J">Deshalb, meine Damen und Herren, sollten wir das jetzt auch z&#xFC;gig umsetzen. Wir haben damit administrative Aufgaben zu erf&#xFC;llen; das ist gar keine Frage. Das wei&#xDF; ich auch als Steuerberater. Aber in der Abw&#xE4;gung ist das, glaube ich, eine kluge L&#xF6;sung.</p>
+				<p klasse="J">Letzte Bemerkung: Vorhin ist gesagt worden: Wir diskutieren an diesem Punkt in der Gegenwart.&#xA0;&#x2013; Ja, wir m&#xFC;ssen auch Steuerpolitik f&#xFC;r die Zukunft machen. Von daher ist es wichtig, dass wir auch zu einer Modernisierung des Unternehmensteuerrechts kommen. Darum ist es richtig, dass &#xFC;ber den Einkommensteuertarif debattiert werden muss.</p>
+				<kommentar>(Beifall des Abg. Christian D&#xFC;rr [FDP])</kommentar>
+				<p klasse="O">Diese Aufgaben sollten wir jetzt angehen. Wir werden auch daf&#xFC;r vielleicht noch in dieser Gro&#xDF;en Koalition gute L&#xF6;sungen finden.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Aber nicht nur in der Wirtschaftsf&#xF6;rderung, im Gesetzblatt muss das passieren!)</kommentar>
+				<p klasse="O">&#x2013; Sie wollten ja nicht mitmachen, lieber Herr D&#xFC;rr.</p>
+				<kommentar>(Christian D&#xFC;rr [FDP]: Damals wolltet ihr ja nicht mal den Soli abschaffen!)</kommentar>
+				<p klasse="O">Mit Ihnen h&#xE4;tten wir vielleicht schon viel mehr erreicht.</p>
+				<p klasse="J">Herzlichen Dank f&#xFC;r die Aufmerksamkeit f&#xFC;r ein gutes Paket.</p>
+				<kommentar>(Beifall bei der CDU/CSU und der SPD)</kommentar>
+			</rede>
+			<name>Pr&#xE4;sident Dr.&#xA0;Wolfgang Sch&#xE4;uble:</name>
+			<p klasse="J_1">Damit schlie&#xDF;e ich die Aussprache.</p>
+			<p klasse="J">Wir kommen zur Abstimmung &#xFC;ber den von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurf eines Zweiten Gesetzes zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Corona-Krise.</p>
+			<p klasse="J">Mir liegt zur Abstimmung eine Erkl&#xE4;rung nach &#xA7;&#xA0;31 unserer Gesch&#xE4;ftsordnung des Kollegen Dr.&#xA0;Eberhard Brecht vor.<sup>1</sup>
+				<fussnote>Anlage 2</fussnote>
+			</p>
+			<p klasse="J">Der Finanzausschuss empfiehlt unter Buchstabe&#xA0;a seiner Beschlussempfehlung auf der Drucksache&#xA0;19/20332, den Gesetzentwurf der Koalitionsfraktionen auf der Drucksache&#xA0;19/20058 in der Ausschussfassung anzunehmen.</p>
+			<p klasse="J">Es liegen drei &#xC4;nderungsantr&#xE4;ge der FDP-Fraktion vor, &#xFC;ber die wir zuerst abstimmen.</p>
+			<p klasse="J">&#xC4;nderungsantrag auf der Drucksache&#xA0;19/20437. Wer stimmt f&#xFC;r diesen &#xC4;nderungsantrag?&#xA0;&#x2013; FDP und AfD. Wer stimmt dagegen?&#xA0;&#x2013; Die &#xFC;brigen Fraktionen. Enthaltungen?&#xA0;&#x2013; Keine. Dann ist der Antrag abgelehnt.</p>
+			<p klasse="J">&#xC4;nderungsantrag auf der Drucksache&#xA0;19/20438. Wer stimmt f&#xFC;r diesen Antrag?&#xA0;&#x2013; FDP und AfD. Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist dieser &#xC4;nderungsantrag gegen die Stimmen von FDP und AfD mit den Stimmen des &#xFC;brigen Hauses abgelehnt.</p>
+			<p klasse="J">Nun stimmen wir &#xFC;ber den &#xC4;nderungsantrag auf der Drucksache&#xA0;19/20439 ab. Wer stimmt f&#xFC;r diesen &#xC4;nderungsantrag?&#xA0;&#x2013; Wiederum die beiden Fraktionen FDP und AfD.</p>
+			<kommentar>(Christian D&#xFC;rr [FDP]: Ich kann ja nichts daf&#xFC;r, dass die Nasen da dr&#xFC;ben mitmachen!)</kommentar>
+			<p klasse="O">Wer stimmt dagegen?&#xA0;&#x2013; Die &#xFC;brigen Fraktionen. Damit ist auch dieser Antrag abgelehnt.</p>
+			<p klasse="J">Ich bitte nun diejenigen, die dem Gesetzentwurf in der Ausschussfassung zustimmen wollen, um ihr Handzeichen.&#xA0;&#x2013; Das sind die Koalitionsfraktionen. Wer stimmt dagegen?&#xA0;&#x2013; FDP und AfD. Wer enth&#xE4;lt sich?&#xA0;&#x2013; Die Linke und B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen. Mit diesen Mehrheiten ist der Gesetzentwurf in zweiter Beratung angenommen.</p>
+			<p klasse="J">Wir kommen zur</p>
+			<p klasse="K">dritten Beratung</p>
+			<p klasse="O">und Schlussabstimmung. Ich bitte alle diejenigen, die dem Gesetzentwurf zustimmen wollen, sich zu erheben.&#xA0;&#x2013; Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist dieser Gesetzentwurf mit den Stimmen der Koalition gegen die Stimmen von AfD und FDP bei Enthaltung von Linken und B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen angenommen.</p>
+			<p klasse="J">Jetzt stimmen wir &#xFC;ber die drei Entschlie&#xDF;ungsantr&#xE4;ge ab.</p>
+			<p klasse="J">Zur Abstimmung steht zuerst der Entschlie&#xDF;ungsantrag der FDP auf Drucksache&#xA0;19/20440. Wer stimmt f&#xFC;r diesen Entschlie&#xDF;ungsantrag?&#xA0;&#x2013; Die FDP.</p>
+			<kommentar>(Amira Mohamed Ali [DIE LINKE]: Wir auch!)</kommentar>
+			<p klasse="O">&#x2013; Bitte?</p>
+			<kommentar>(Amira Mohamed Ali [DIE LINKE]: Wir auch! Daf&#xFC;r!)</kommentar>
+			<p klasse="O">&#x2013; &#xDC;berraschend!</p>
+			<kommentar>(Heiterkeit bei Abgeordneten der CDU/CSU und der SPD)</kommentar>
+			<p klasse="O">Die Konstellation ist &#xFC;berraschend, aber: FDP und Linke. Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist dieser Entschlie&#xDF;ungsantrag bei Enthaltung von B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen gegen die Stimmen von FDP und Die Linke mit den &#xFC;brigen Stimmen des Hauses abgelehnt.</p>
+			<p klasse="J">Wir stimmen nun ab &#xFC;ber den Entschlie&#xDF;ungsantrag der Fraktion Die Linke auf der Drucksache&#xA0;19/20459.</p>
+			<kommentar>(Christian D&#xFC;rr [FDP]: Da sind wir leider nicht dabei!)</kommentar>
+			<p klasse="O">&#x2013; Ich frage ja erst noch. Langsam, langsam! Keine Deals!&#xA0;&#x2013; Wer stimmt f&#xFC;r den Entschlie&#xDF;ungsantrag der Fraktion Die Linke auf der Drucksache&#xA0;19/20459?&#xA0;&#x2013; Die Linke. Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen enth&#xE4;lt sich. Die Linke stimmt daf&#xFC;r. Der Rest des Hauses lehnt den Entschlie&#xDF;ungsantrag ab.</p>
+			<p klasse="J">Wir kommen zum Entschlie&#xDF;ungsantrag der Fraktion B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen auf der Drucksache&#xA0;19/20460. Wer stimmt daf&#xFC;r?&#xA0;&#x2013; Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist dieser Entschlie&#xDF;ungsantrag gegen die Stimmen von B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen bei Enthaltung der Linken mit den Stimmen des &#xFC;brigen Hauses abgelehnt.</p>
+			<p klasse="J">Wir setzen die Abstimmungen zu der Beschlussempfehlung des Finanzausschusses auf der Drucksache&#xA0;19/20332 fort.</p>
+			<p klasse="J">Der Ausschuss empfiehlt unter Buchstabe&#xA0;b seiner Beschlussempfehlung die Ablehnung des Antrags der Fraktion der FDP auf der Drucksache&#xA0;19/20050 mit dem Titel &#x201E;Neustart f&#xFC;r Deutschland&#xA0;&#x2013; Entlasten, investieren und entfesseln&#x201C;. Wer stimmt f&#xFC;r diese Beschlussempfehlung des Ausschusses?&#xA0;&#x2013; Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist diese Beschlussempfehlung bei Enthaltung der AfD gegen die Stimmen der FDP mit den Stimmen des &#xFC;brigen Hauses angenommen.</p>
+			<p klasse="J">Unter Buchstabe&#xA0;c empfiehlt der Ausschuss die Ablehnung des Antrags der Fraktion der FDP auf der Drucksache&#xA0;19/20051 mit dem Titel &#x201E;Steuererkl&#xE4;rungsverpflichtung f&#xFC;r Kurzarbeit verhindern&#xA0;&#x2013; Progressionsvorbehalt f&#xFC;r 2020 aussetzen&#x201C;. Wer stimmt f&#xFC;r diese Beschlussempfehlung des Ausschusses?&#xA0;&#x2013; Die Koalitionsfraktionen und die AfD. Wer stimmt dagegen?&#xA0;&#x2013; FDP und Die Linke. Wer enth&#xE4;lt sich?&#xA0;&#x2013; B&#xFC;ndnis&#xA0;90/Die Gr&#xFC;nen. Dann ist die Beschlussempfehlung mit den genannten Mehrheiten angenommen.</p>
+			<p klasse="J">Schlie&#xDF;lich empfiehlt der Ausschuss unter Buchstabe&#xA0;d die Ablehnung des Antrags der Fraktion der AfD auf der Drucksache&#xA0;19/20071 mit dem Titel &#x201E;Arbeitnehmer, Kleinunternehmer, Freiberufler, Landwirte und Solo-Selbst&#xE4;ndige aus der Corona-Steuerfalle befreien und gleichzeitig B&#xFC;rokratie abbauen&#x201C;. Wer stimmt f&#xFC;r diese Beschlussempfehlung?&#xA0;&#x2013; Wer stimmt dagegen?&#xA0;&#x2013; Wer enth&#xE4;lt sich?&#xA0;&#x2013; Dann ist diese Beschlussempfehlung gegen die Stimmen der AfD mit den Stimmen des &#xFC;brigen Hauses angenommen.</p>
+			<p klasse="J">Damit sind wir am Schluss der heutigen Tagesordnung.</p>
+			<p klasse="J">Ich berufe die n&#xE4;chste Sitzung des Deutschen Bundestags auf Mittwoch, den 1.&#xA0;Juli 2020, 13&#xA0;Uhr, ein.</p>
+			<p klasse="J">Die Sitzung ist geschlossen.</p>
+			<p klasse="T_Beratung">(Schluss: 12.31&#xA0;Uhr)</p>
+		</tagesordnungspunkt>
+		<sitzungsende sitzung-ende-uhrzeit="12:31">
+	</sitzungsende></sitzungsverlauf>
+	<anlagen>
+		<anlagen-titel>Anlagen zum Stenografischen Bericht</anlagen-titel>
+		<anlage>
+			<anlagen-titel>Anlage 1</anlagen-titel>
+			<anlagen-text anlagen-typ="Entschuldigte Abgeordnete">
+				<p klasse="Anlage_2">Entschuldigte Abgeordnete</p>
+				<table>
+					<colgroup>
+						<col width="53.0%">
+						<col width="47.0%">
+					</colgroup>
+					<thead>
+						<tr>
+							<th>Abgeordnete(r)</th>
+							<th>
+						</th></tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>B&#xFC;low, Marco</td>
+							<td>fraktionslos</td>
+						</tr>
+						<tr>
+							<td>Busen, Karlheinz</td>
+							<td>FDP</td>
+						</tr>
+						<tr>
+							<td>D&#xF6;rner, Katja</td>
+							<td>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</td>
+						</tr>
+						<tr>
+							<td>Esdar, Dr.&#xA0;Wiebke*</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Gabelmann, Sylvia</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Herzog, Gustav</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>H&#xF6;hn, Matthias</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Kamann, Uwe</td>
+							<td>fraktionslos</td>
+						</tr>
+						<tr>
+							<td>Korkmaz-Emre, Elvan*</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Korte, Jan</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Kuffer, Michael</td>
+							<td>CDU/CSU</td>
+						</tr>
+						<tr>
+							<td>Launert, Dr.&#xA0;Silke</td>
+							<td>CDU/CSU</td>
+						</tr>
+						<tr>
+							<td>Miazga, Corinna</td>
+							<td>AfD</td>
+						</tr>
+						<tr>
+							<td>M&#xFC;ller (Chemnitz), Detlef</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>M&#xFC;ller-Gemmeke, Beate</td>
+							<td>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</td>
+						</tr>
+						<tr>
+							<td>N&#xF6;lke, Matthias</td>
+							<td>FDP</td>
+						</tr>
+						<tr>
+							<td>Pellmann, S&#xF6;ren</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Pilger, Detlev</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Post, Florian</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Remmers, Ingrid</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Sarrazin, Manuel</td>
+							<td>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</td>
+						</tr>
+						<tr>
+							<td>Schneidewind-Hartnagel, Charlotte</td>
+							<td>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</td>
+						</tr>
+						<tr>
+							<td>Ulrich, Alexander</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Vogler, Kathrin</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Vogt, Ute</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Weinberg, Harald</td>
+							<td>DIE LINKE</td>
+						</tr>
+						<tr>
+							<td>Ziegler, Dagmar</td>
+							<td>SPD</td>
+						</tr>
+						<tr>
+							<td>Zimmermann, Pia</td>
+							<td>DIE LINKE</td>
+						</tr>
+					</tbody>
+				</table>
+				<p klasse="p">* aufgrund gesetzlichen Mutterschutzes</p>
+			</anlagen-text>
+		</anlage>
+		<anlage>
+			<anlagen-titel>Anlage 2</anlagen-titel>
+			<anlagen-text anlagen-typ="Erkl&#xE4;rung nach &#xA7;&#xA0;31 GO">
+				<p klasse="Anlage_2">Erkl&#xE4;rung nach &#xA7;&#xA0;31 GO</p>
+				<p klasse="Anlage_3">des Abgeordneten Dr.&#xA0;Eberhard Brecht (SPD) zu dem von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurf eines Zweiten Gesetzes zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Corona-Krise (Zweites Corona-Steuerhilfegesetz)</p>
+				<p klasse="Anlage_3">(Tagesordnungspunkt&#xA0;1&#xA0;a)</p>
+				<p>TOP 1</p>
+				<p klasse="J">Die im Zweiten Gesetz zur Umsetzung steuerlicher Hilfsma&#xDF;nahmen zur Bew&#xE4;ltigung der Coronakrise vorgesehene befristete Absenkung der Umsatzsteuers&#xE4;tze von 19 auf 16 bzw. von 7 auf 5&#xA0;Prozent bis zum 31.&#xA0;Dezember 2020 ist nicht zielf&#xFC;hrend. Einem &#xFC;berschaubaren konjunkturellen Impuls stehen sowohl Steuermindereinnahmen aufseiten des BMF als auch der unverh&#xE4;ltnism&#xE4;&#xDF;ige Erf&#xFC;llungsaufwand der Wirtschaft gegen&#xFC;ber. Der von der Bundesregierung genannte Erf&#xFC;llungsaufwand von 247,1&#xA0;Millionen Euro ist mindestens um einen Faktor&#xA0;10 zu niedrig angesetzt.</p>
+				<p klasse="J">Ich werde&#xA0;&#x2013; trotz schwerer Bedenken&#xA0;&#x2013; dem Gesetz meine Zustimmung geben. Dies begr&#xFC;nde ich einerseits mit der Tatsache, dass der Gesetzentwurf eine Reihe weiterer Beitr&#xE4;ge zur Konjunkturbelebung und zur sozialen Abfederung der Coronalasten enth&#xE4;lt, andererseits mit dem Umstand, dass die Umsatzsteuerabsenkung ein Bestandteil des im Koalitionsausschuss geschn&#xFC;rten Pakets zur &#xDC;berwindung der Coronafolgen ist, dessen Infragestellung sehr viele andere Ma&#xDF;nahmen gef&#xE4;hrden w&#xFC;rde.</p>
+			</anlagen-text>
+		</anlage>
+	</anlagen>
+	<rednerliste sitzung-datum="29.06.2020">
+		<redner id="11003050">
+			<name>
+				<vorname>Lothar</vorname>
+				<nachname>Binding</nachname>
+				<ortszusatz>(Heidelberg)</ortszusatz>
+				<fraktion>SPD</fraktion>
+			</name>
+		</redner>
+		<redner id="11004727">
+			<name>
+				<vorname>Albrecht</vorname>
+				<nachname>Glaser</nachname>
+				<fraktion>AfD</fraktion>
+			</name>
+		</redner>
+		<redner id="11003516">
+			<name>
+				<vorname>Alexander</vorname>
+				<nachname>Dobrindt</nachname>
+				<fraktion>CDU/CSU</fraktion>
+			</name>
+		</redner>
+		<redner id="11004892">
+			<name>
+				<vorname>Martin</vorname>
+				<nachname>Sichert</nachname>
+				<fraktion>AfD</fraktion>
+			</name>
+		</redner>
+		<redner id="11004705">
+			<name>
+				<vorname>Christian</vorname>
+				<nachname>D&#xFC;rr</nachname>
+				<fraktion>FDP</fraktion>
+			</name>
+		</redner>
+		<redner id="11004183">
+			<name>
+				<titel>Dr.</titel>
+				<vorname>Sahra</vorname>
+				<nachname>Wagenknecht</nachname>
+				<fraktion>DIE LINKE</fraktion>
+			</name>
+		</redner>
+		<redner id="11004664">
+			<name>
+				<titel>Dr.</titel>
+				<vorname>Danyal</vorname>
+				<nachname>Bayaz</nachname>
+				<fraktion>B&#xDC;NDNIS&#xA0;90/DIE GR&#xDC;NEN</fraktion>
+			</name>
+		</redner>
+		<redner id="11003422">
+			<name>
+				<vorname>Ingrid</vorname>
+				<nachname>Arndt-Brauer</nachname>
+				<fraktion>SPD</fraktion>
+			</name>
+		</redner>
+		<redner id="11004745">
+			<name>
+				<vorname>Markus</vorname>
+				<nachname>Herbrand</nachname>
+				<fraktion>FDP</fraktion>
+			</name>
+		</redner>
+		<redner id="11004116">
+			<name>
+				<vorname>Nadine</vorname>
+				<nachname>Sch&#xF6;n</nachname>
+				<fraktion>CDU/CSU</fraktion>
+			</name>
+		</redner>
+		<redner id="11003856">
+			<name>
+				<titel>Dr.</titel>
+				<vorname>Florian</vorname>
+				<nachname>Toncar</nachname>
+				<fraktion>FDP</fraktion>
+			</name>
+		</redner>
+		<redner id="11003646">
+			<name>
+				<vorname>Antje</vorname>
+				<nachname>Tillmann</nachname>
+				<fraktion>CDU/CSU</fraktion>
+			</name>
+		</redner>
+		<redner id="11000365">
+			<name>
+				<titel>Dr.</titel>
+				<vorname>Diether</vorname>
+				<nachname>Dehm</nachname>
+				<fraktion>DIE LINKE</fraktion>
+			</name>
+		</redner>
+		<redner id="11004258">
+			<name>
+				<vorname>Bernhard</vorname>
+				<nachname>Daldrup</nachname>
+				<fraktion>SPD</fraktion>
+			</name>
+		</redner>
+		<redner id="11004817">
+			<name>
+				<vorname>Fabio</vorname>
+				<nachname>De Masi</nachname>
+				<fraktion>DIE LINKE</fraktion>
+			</name>
+		</redner>
+		<redner id="11004285">
+			<name>
+				<vorname>Fritz</vorname>
+				<nachname>G&#xFC;ntzler</nachname>
+				<fraktion>CDU/CSU</fraktion>
+			</name>
+		</redner>
+	</rednerliste>
+</dbtplenarprotokoll>
